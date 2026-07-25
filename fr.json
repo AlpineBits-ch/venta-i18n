@@ -97,6 +97,7 @@
   "PROX_CHAT.LINK_STEAM": "Liez Steam pour utiliser le chat de proximité",
   "PROX_CHAT.LINK_STEAM_ACTION": "Lier Steam",
   "PROX_CHAT.VOLUME": "Volume",
+  "PROX_CHAT.MIC_BOOST": "Gain du microphone",
   "PROX_CHAT.SPATIAL": "Son spatial",
   "PROX_CHAT.PTT_HINT": "Maintenez {{ key }} pour parler",
   "PROX_CHAT.OPEN_MIC": "Micro ouvert",
