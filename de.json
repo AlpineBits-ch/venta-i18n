@@ -100,9 +100,13 @@
   "PROX_CHAT.MIC_BOOST": "Mikrofonverstärkung",
   "PROX_CHAT.SPATIAL": "Räumlicher Klang",
   "PROX_CHAT.PTT_HINT": "{{ key }} halten zum Sprechen",
+  "PROX_CHAT.TOGGLE_HINT": "{{ key }} drücken zum Stummschalten",
   "PROX_CHAT.OPEN_MIC": "Offenes Mikrofon",
   "PROX_CHAT.TALKING": "Spricht",
+  "PROX_CHAT.READY": "Bereit",
   "PROX_CHAT.MUTED": "Mikrofon aus",
+  "PROX_CHAT.MUTE": "Mikrofon stummschalten",
+  "PROX_CHAT.UNMUTE": "Stummschaltung aufheben",
   "PROX_CHAT.PEERS_NEARBY": "{{ count }} in der Nähe",
 
   "QUICK_SETTINGS.MUTE": "Stummschalten",

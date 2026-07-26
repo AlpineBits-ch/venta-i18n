@@ -100,9 +100,13 @@
   "PROX_CHAT.MIC_BOOST": "Microphone boost",
   "PROX_CHAT.SPATIAL": "Spatial audio",
   "PROX_CHAT.PTT_HINT": "Hold {{ key }} to talk",
+  "PROX_CHAT.TOGGLE_HINT": "Press {{ key }} to mute",
   "PROX_CHAT.OPEN_MIC": "Open mic",
   "PROX_CHAT.TALKING": "Talking",
+  "PROX_CHAT.READY": "Ready",
   "PROX_CHAT.MUTED": "Mic off",
+  "PROX_CHAT.MUTE": "Mute microphone",
+  "PROX_CHAT.UNMUTE": "Unmute microphone",
   "PROX_CHAT.PEERS_NEARBY": "{{ count }} nearby",
 
   "QUICK_SETTINGS.MUTE": "Mute",

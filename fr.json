@@ -100,9 +100,13 @@
   "PROX_CHAT.MIC_BOOST": "Gain du microphone",
   "PROX_CHAT.SPATIAL": "Son spatial",
   "PROX_CHAT.PTT_HINT": "Maintenez {{ key }} pour parler",
+  "PROX_CHAT.TOGGLE_HINT": "Appuyez sur {{ key }} pour couper le micro",
   "PROX_CHAT.OPEN_MIC": "Micro ouvert",
   "PROX_CHAT.TALKING": "Parle",
+  "PROX_CHAT.READY": "Prêt",
   "PROX_CHAT.MUTED": "Micro coupé",
+  "PROX_CHAT.MUTE": "Couper le micro",
+  "PROX_CHAT.UNMUTE": "Réactiver le micro",
   "PROX_CHAT.PEERS_NEARBY": "{{ count }} à proximité",
 
   "QUICK_SETTINGS.MUTE": "Couper le micro",
