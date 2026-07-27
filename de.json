@@ -270,6 +270,8 @@
   "GUILD_SETTINGS.OVERVIEW.SAVE_CHANGES": "Änderungen speichern",
   "GUILD_SETTINGS.OVERVIEW.RESET": "Zurücksetzen",
   "GUILD_SETTINGS.OVERVIEW.CROP_ICON": "Server-Symbol zuschneiden",
+  "GUILD_SETTINGS.OVERVIEW.SYSTEM_CHANNEL": "System-Nachrichten-Kanal",
+  "GUILD_SETTINGS.OVERVIEW.SYSTEM_CHANNEL_HINT": "Beitritts- und Austrittsnachrichten werden hier gepostet.",
 
   "GUILD_SETTINGS.INVITES.PERMANENT": "Dauereinladung",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "Einmaleinladung",

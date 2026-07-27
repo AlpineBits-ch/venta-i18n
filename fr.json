@@ -270,6 +270,8 @@
   "GUILD_SETTINGS.OVERVIEW.SAVE_CHANGES": "Enregistrer les modifications",
   "GUILD_SETTINGS.OVERVIEW.RESET": "Réinitialiser",
   "GUILD_SETTINGS.OVERVIEW.CROP_ICON": "Recadrer l'icône du serveur",
+  "GUILD_SETTINGS.OVERVIEW.SYSTEM_CHANNEL": "Canal des messages système",
+  "GUILD_SETTINGS.OVERVIEW.SYSTEM_CHANNEL_HINT": "Les messages d'arrivée et de départ sont publiés ici.",
 
   "GUILD_SETTINGS.INVITES.PERMANENT": "Invitation permanente",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "Invitation unique",
