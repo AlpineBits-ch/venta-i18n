@@ -295,6 +295,7 @@
   "GUILD_SETTINGS.OVERVIEW.VERIFY_LOW_HINT": "Mitglieder müssen eine verifizierte E-Mail-Adresse haben.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_MEDIUM_HINT": "Mitglieder müssen eine verifizierte E-Mail-Adresse und ein mindestens 5 Minuten altes Konto haben.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_HIGH_HINT": "Mitglieder müssen eine verifizierte E-Mail-Adresse, ein mindestens 5 Minuten altes Konto und eine verifizierte Telefonnummer haben.",
+  "GUILD_SETTINGS.OVERVIEW.SAVE_ERROR": "Servereinstellungen konnten nicht gespeichert werden",
 
   "GUILD_SETTINGS.INVITES.PERMANENT": "Dauereinladung",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "Einmaleinladung",
@@ -406,6 +407,7 @@
   "ONBOARDING_GATE.CHANNELS_HINT": "Schau dir diese Kanäle an, um loszulegen:",
   "ONBOARDING_GATE.ACCEPT": "Akzeptieren",
   "ONBOARDING_GATE.ACCEPT_ERROR": "Die Regeln konnten nicht akzeptiert werden. Bitte versuche es erneut.",
+  "ONBOARDING_GATE.LEAVE_SERVER": "Server verlassen",
 
   "CHANNEL_SETTINGS.NAV.OVERVIEW": "Übersicht",
   "CHANNEL_SETTINGS.NAV.PERMISSIONS": "Berechtigungen",

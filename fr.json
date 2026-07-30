@@ -295,6 +295,7 @@
   "GUILD_SETTINGS.OVERVIEW.VERIFY_LOW_HINT": "Les membres doivent avoir une adresse e-mail vérifiée.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_MEDIUM_HINT": "Les membres doivent avoir une adresse e-mail vérifiée et un compte vieux d'au moins 5 minutes.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_HIGH_HINT": "Les membres doivent avoir une adresse e-mail vérifiée, un compte vieux d'au moins 5 minutes et un numéro de téléphone vérifié.",
+  "GUILD_SETTINGS.OVERVIEW.SAVE_ERROR": "Échec de l'enregistrement des paramètres du serveur",
 
   "GUILD_SETTINGS.INVITES.PERMANENT": "Invitation permanente",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "Invitation unique",
@@ -406,6 +407,7 @@
   "ONBOARDING_GATE.CHANNELS_HINT": "Découvrez ces salons pour commencer :",
   "ONBOARDING_GATE.ACCEPT": "Accepter",
   "ONBOARDING_GATE.ACCEPT_ERROR": "Échec de l'acceptation des règles. Veuillez réessayer.",
+  "ONBOARDING_GATE.LEAVE_SERVER": "Quitter le serveur",
 
   "CHANNEL_SETTINGS.NAV.OVERVIEW": "Aperçu",
   "CHANNEL_SETTINGS.NAV.PERMISSIONS": "Permissions",

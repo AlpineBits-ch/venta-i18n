@@ -298,6 +298,7 @@
   "GUILD_SETTINGS.OVERVIEW.VERIFY_LOW_HINT": "Members must have a verified email address.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_MEDIUM_HINT": "Members must have a verified email and an account at least 5 minutes old.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_HIGH_HINT": "Members must have a verified email, an account at least 5 minutes old, and a verified phone number.",
+  "GUILD_SETTINGS.OVERVIEW.SAVE_ERROR": "Failed to save server settings",
 
   "GUILD_SETTINGS.INVITES.PERMANENT": "Permanent Invite",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "One-time Invite",
@@ -409,6 +410,7 @@
   "ONBOARDING_GATE.CHANNELS_HINT": "Check out these channels to get started:",
   "ONBOARDING_GATE.ACCEPT": "Accept",
   "ONBOARDING_GATE.ACCEPT_ERROR": "Failed to accept the rules. Please try again.",
+  "ONBOARDING_GATE.LEAVE_SERVER": "Leave Server",
 
   "CHANNEL_SETTINGS.NAV.OVERVIEW": "Overview",
   "CHANNEL_SETTINGS.NAV.PERMISSIONS": "Permissions",
