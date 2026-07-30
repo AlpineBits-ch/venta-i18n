@@ -238,6 +238,8 @@
   "GUILD.CHANNEL_TYPE_TEXT_DESC": "Send messages",
   "GUILD.CHANNEL_TYPE_VOICE": "Voice",
   "GUILD.CHANNEL_TYPE_VOICE_DESC": "Talk in real time",
+  "GUILD.CHANNEL_TYPE_FORUM": "Forum",
+  "GUILD.CHANNEL_TYPE_FORUM_DESC": "Organize discussions into posts",
   "GUILD.CHANNEL_NAME": "Channel Name",
   "GUILD.CHANNEL_NAME_PLACEHOLDER": "new-channel",
   "GUILD.CHANNEL_IN_CATEGORY": "Will be created inside a category",
