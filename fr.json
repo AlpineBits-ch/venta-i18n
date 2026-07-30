@@ -474,6 +474,7 @@
   "COMMON.LOADING": "Chargement…",
   "COMMON.ERROR": "Erreur",
   "COMMON.SUCCESS": "Succès",
+  "COMMON.RETRY": "Réessayer",
 
   "CONVERSATION_LIST.NO_MESSAGES_YET": "Pas encore de messages",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Supprimer la conversation",
@@ -552,6 +553,7 @@
 
   "EVENTS.TITLE": "Événements",
   "EVENTS.EMPTY": "Aucun événement à venir",
+  "EVENTS.LOAD_ERROR": "Impossible de charger les événements",
   "EVENTS.PAST": "Événements passés",
   "EVENTS.NO_REMINDERS_NOTE": "Les événements n'envoient aucun rappel ni notification — revenez ici pour voir ce qui arrive.",
   "EVENTS.JOIN_VOICE": "Rejoindre le vocal",
@@ -580,6 +582,7 @@
   "EVENTS.SAVE_ERROR": "Échec de l'enregistrement de l'événement",
 
   "GUILD_SETTINGS.TEMPLATES.INTRO": "Enregistrez la structure de ce serveur — catégories, canaux et permissions des rôles — comme modèle réutilisable. Les modèles n'incluent pas les permissions spécifiques aux canaux, les membres ni les messages.",
+  "GUILD_SETTINGS.TEMPLATES.NO_PERMISSION": "Vous n'avez pas la permission d'enregistrer ce serveur comme modèle.",
   "GUILD_SETTINGS.TEMPLATES.NAME_LABEL": "Nom du modèle",
   "GUILD_SETTINGS.TEMPLATES.NAME_PLACEHOLDER": "ex. Démarrage communauté gaming",
   "GUILD_SETTINGS.TEMPLATES.DESCRIPTION_LABEL": "Description",

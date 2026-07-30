@@ -477,6 +477,7 @@
   "COMMON.LOADING": "Loading…",
   "COMMON.ERROR": "Error",
   "COMMON.SUCCESS": "Success",
+  "COMMON.RETRY": "Retry",
 
   "CONVERSATION_LIST.NO_MESSAGES_YET": "No messages yet",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Delete conversation",
@@ -555,6 +556,7 @@
 
   "EVENTS.TITLE": "Events",
   "EVENTS.EMPTY": "No upcoming events",
+  "EVENTS.LOAD_ERROR": "Couldn't load events",
   "EVENTS.PAST": "Past events",
   "EVENTS.NO_REMINDERS_NOTE": "Events don't send reminders or notifications — check back here to see what's coming up.",
   "EVENTS.JOIN_VOICE": "Join Voice",
@@ -583,6 +585,7 @@
   "EVENTS.SAVE_ERROR": "Failed to save event",
 
   "GUILD_SETTINGS.TEMPLATES.INTRO": "Save this server's structure — categories, channels, and role permissions — as a reusable template. Templates don't include channel permission overwrites, members, or messages.",
+  "GUILD_SETTINGS.TEMPLATES.NO_PERMISSION": "You don't have permission to save this server as a template.",
   "GUILD_SETTINGS.TEMPLATES.NAME_LABEL": "Template Name",
   "GUILD_SETTINGS.TEMPLATES.NAME_PLACEHOLDER": "e.g. Gaming Community Starter",
   "GUILD_SETTINGS.TEMPLATES.DESCRIPTION_LABEL": "Description",

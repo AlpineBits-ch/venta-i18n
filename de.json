@@ -474,6 +474,7 @@
   "COMMON.LOADING": "Laden…",
   "COMMON.ERROR": "Fehler",
   "COMMON.SUCCESS": "Erfolg",
+  "COMMON.RETRY": "Erneut versuchen",
 
   "CONVERSATION_LIST.NO_MESSAGES_YET": "Noch keine Nachrichten",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Gespräch löschen",
@@ -552,6 +553,7 @@
 
   "EVENTS.TITLE": "Events",
   "EVENTS.EMPTY": "Keine anstehenden Events",
+  "EVENTS.LOAD_ERROR": "Events konnten nicht geladen werden",
   "EVENTS.PAST": "Vergangene Events",
   "EVENTS.NO_REMINDERS_NOTE": "Events versenden keine Erinnerungen oder Benachrichtigungen — schau hier vorbei, um zu sehen, was ansteht.",
   "EVENTS.JOIN_VOICE": "Sprachkanal beitreten",
@@ -580,6 +582,7 @@
   "EVENTS.SAVE_ERROR": "Event konnte nicht gespeichert werden",
 
   "GUILD_SETTINGS.TEMPLATES.INTRO": "Speichere die Struktur dieses Servers — Kategorien, Kanäle und Rollenberechtigungen — als wiederverwendbare Vorlage. Vorlagen enthalten keine Berechtigungsüberschreibungen für Kanäle, Mitglieder oder Nachrichten.",
+  "GUILD_SETTINGS.TEMPLATES.NO_PERMISSION": "Du hast keine Berechtigung, diesen Server als Vorlage zu speichern.",
   "GUILD_SETTINGS.TEMPLATES.NAME_LABEL": "Vorlagenname",
   "GUILD_SETTINGS.TEMPLATES.NAME_PLACEHOLDER": "z. B. Gaming-Community-Starter",
   "GUILD_SETTINGS.TEMPLATES.DESCRIPTION_LABEL": "Beschreibung",
