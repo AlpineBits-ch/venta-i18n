@@ -518,6 +518,7 @@
   "MESSAGE.PUBLISH_SUCCESS": "In {{ count }} Kanälen veröffentlicht",
   "MESSAGE.PUBLISH_NO_FOLLOWERS": "Veröffentlicht – diesem Kanal folgt noch niemand",
   "MESSAGE.PUBLISH_FAILED": "Veröffentlichen fehlgeschlagen",
+  "MESSAGE.PUBLISH_SUCCESS_SINGULAR": "In {{ count }} Kanal veröffentlicht",
   "MESSAGE.REACTION_SINGULAR": "{{ count }} Reaktion",
   "MESSAGE.REACTION_PLURAL": "{{ count }} Reaktionen",
   "MESSAGE.ADD_REACTION": "Reaktion hinzufügen",

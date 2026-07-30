@@ -521,6 +521,7 @@
   "MESSAGE.PUBLISH_SUCCESS": "Published to {{ count }} channels",
   "MESSAGE.PUBLISH_NO_FOLLOWERS": "Published — no channels follow this one yet",
   "MESSAGE.PUBLISH_FAILED": "Failed to publish message",
+  "MESSAGE.PUBLISH_SUCCESS_SINGULAR": "Published to {{ count }} channel",
   "MESSAGE.REACTION_SINGULAR": "{{ count }} reaction",
   "MESSAGE.REACTION_PLURAL": "{{ count }} reactions",
   "MESSAGE.ADD_REACTION": "Add reaction",
