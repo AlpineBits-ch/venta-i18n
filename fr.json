@@ -35,7 +35,6 @@
   "LOGIN.TERMS_OF_SERVICE": "Conditions d'utilisation",
   "LOGIN.AND": "et la",
   "LOGIN.PRIVACY_POLICY": "Politique de confidentialité",
-
   "LOGIN.MFA.TITLE": "Authentification à deux facteurs",
   "LOGIN.MFA.DESCRIPTION": "Entrez le code à 6 chiffres généré par votre application d'authentification pour continuer.",
   "LOGIN.MFA.RECOVERY_DESCRIPTION": "Entrez l'un de vos codes de récupération pour continuer.",
@@ -45,7 +44,6 @@
   "LOGIN.MFA.USE_RECOVERY_CODE": "Utiliser un code de récupération à la place",
   "LOGIN.MFA.USE_AUTHENTICATOR_CODE": "Utiliser le code d'authentification à la place",
   "LOGIN.MFA.VERIFY": "Vérifier",
-
   "LOGIN.PASSWORD_RESET.TITLE": "Réinitialiser le mot de passe",
   "LOGIN.PASSWORD_RESET.REQUEST_DESCRIPTION": "Entrez votre adresse e-mail et nous vous enverrons un code pour réinitialiser votre mot de passe.",
   "LOGIN.PASSWORD_RESET.EMAIL_LABEL": "E-mail",
@@ -63,7 +61,27 @@
   "LOGIN.PASSWORD_RESET.RESEND_CODE": "Renvoyer le code",
   "LOGIN.PASSWORD_RESET.RESEND_IN": "Renvoyer dans {{ seconds }} s",
   "LOGIN.PASSWORD_RESET.SUBMIT": "Réinitialiser le mot de passe",
-
+  "LOGIN.LOGIN.USERNAME": "Nom d'utilisateur",
+  "LOGIN.OR": "ou",
+  "LOGIN.SERVER.LABEL": "Serveur",
+  "LOGIN.SERVER.CHANGE": "Modifier",
+  "LOGIN.SERVER.UNREACHABLE": "Ce serveur est injoignable.",
+  "LOGIN.SERVER.UNREACHABLE_NAMED": "{{server}} est injoignable",
+  "LOGIN.SERVER.LOGIN_DISABLED": "La connexion n'est pas activée sur ce serveur.",
+  "LOGIN.SERVER.REGISTER_DISABLED": "L'inscription n'est pas activée sur ce serveur.",
+  "LOGIN.QR.CTA": "Se connecter avec un QR code",
+  "LOGIN.QR.TITLE": "Scannez pour vous connecter",
+  "LOGIN.QR.SUBTITLE": "Ouvrez Venta sur votre téléphone et scannez ce code. Vous resterez connecté sur les deux appareils.",
+  "LOGIN.QR.ARIA": "QR code pour se connecter depuis votre téléphone",
+  "LOGIN.QR.WAITING": "En attente du scan",
+  "LOGIN.QR.EXPIRES_IN": "Expire dans",
+  "LOGIN.QR.CONFIRM_ON_PHONE": "Confirmez sur votre téléphone",
+  "LOGIN.QR.SIGNING_IN": "Connexion en cours…",
+  "LOGIN.QR.DENIED": "La connexion a été refusée sur votre téléphone. Générez un nouveau code pour réessayer.",
+  "LOGIN.QR.EXPIRED": "Ce code a expiré. Générez-en un nouveau pour continuer.",
+  "LOGIN.QR.ERROR": "Impossible de joindre le serveur. Générez un nouveau code pour réessayer.",
+  "LOGIN.QR.NEW_CODE": "Générer un nouveau code",
+  "LOGIN.QR.USE_PASSWORD": "Utiliser plutôt votre mot de passe",
   "HOME.TITLE": "Amis",
   "HOME.ADD_FRIEND": "+ Ajouter un ami",
   "HOME.CANCEL": "Annuler",
@@ -95,7 +113,6 @@
   "HOME.UNBLOCK": "Débloquer",
   "HOME.BLOCK": "Bloquer",
   "HOME.MESSAGE": "Message",
-
   "SIDEBAR.FRIENDS": "Amis",
   "SIDEBAR.ONLINE": "En ligne",
   "SIDEBAR.DIRECT_MESSAGES": "Messages directs",
@@ -104,13 +121,10 @@
   "SIDEBAR.NOBODY_ONLINE": "Personne n'est en ligne pour l'instant",
   "SIDEBAR.OFFLINE_COUNT": "Hors ligne - {{ count }}",
   "SIDEBAR.OFFLINE": "Hors ligne",
-
   "ACTIVITY.ONLINE_COUNT": "En ligne - {{ count }}",
-
   "CONNECTION.CONNECTED": "Connecté",
   "CONNECTION.CONNECTING": "Connexion…",
   "CONNECTION.DISCONNECTED": "Déconnecté",
-
   "VOICE_BAR.FAILED": "Connexion échouée",
   "VOICE_BAR.LOST": "Connexion perdue",
   "VOICE_BAR.AUDIO_INTERRUPTED": "l'audio peut être interrompu",
@@ -118,7 +132,6 @@
   "VOICE_BAR.VOICE_CONNECTED": "Voix connectée",
   "VOICE_BAR.DISCONNECT": "Se déconnecter du canal vocal",
   "VOICE_BAR.CONNECTION_FAILED_WARN": "{{ state }} - l'audio peut être interrompu",
-
   "PROX_CHAT.CONNECT": "Rejoindre le chat de proximité Isle",
   "PROX_CHAT.CONNECT_ACTION": "Rejoindre",
   "PROX_CHAT.CONNECTING": "Connexion…",
@@ -138,12 +151,10 @@
   "PROX_CHAT.MUTE": "Couper le micro",
   "PROX_CHAT.UNMUTE": "Réactiver le micro",
   "PROX_CHAT.PEERS_NEARBY": "{{ count }} à proximité",
-
   "QUICK_SETTINGS.MUTE": "Couper le micro",
   "QUICK_SETTINGS.UNMUTE": "Réactiver le micro",
   "QUICK_SETTINGS.DEAFEN": "Désactiver l'audio",
   "QUICK_SETTINGS.UNDEAFEN": "Réactiver l'audio",
-
   "NEW_CONVERSATION.TITLE": "Nouveau message",
   "NEW_CONVERSATION.SEARCH_PLACEHOLDER": "Rechercher des amis...",
   "NEW_CONVERSATION.NO_FRIENDS": "Aucun ami trouvé",
@@ -153,7 +164,6 @@
   "NEW_CONVERSATION.E2E_HINT": "Nécessite l'enregistrement MLS de l'appareil",
   "NEW_CONVERSATION.CANCEL": "Annuler",
   "NEW_CONVERSATION.OPEN": "Ouvrir",
-
   "SETTINGS.TITLE": "Paramètres",
   "SETTINGS.NAV.MY_ACCOUNT": "Mon compte",
   "SETTINGS.NAV.APP_SETTINGS": "Paramètres de l'app",
@@ -164,7 +174,6 @@
   "SETTINGS.NAV.APPEARANCE": "Apparence",
   "SETTINGS.NAV.OTHER": "Autre",
   "SETTINGS.LOG_OUT": "Se déconnecter",
-
   "SETTINGS.PROFILE.SECTION_AVATAR": "Avatar",
   "SETTINGS.PROFILE.CHANGE_AVATAR": "Changer l'avatar",
   "SETTINGS.PROFILE.REMOVE_AVATAR": "Supprimer",
@@ -183,13 +192,11 @@
   "SETTINGS.PROFILE.SAVE_CHANGES": "Enregistrer les modifications",
   "SETTINGS.PROFILE.RESET": "Réinitialiser",
   "SETTINGS.PROFILE.CROP_AVATAR": "Recadrer l'avatar",
-
   "SETTINGS.PRIVACY.SECTION_FRIEND_REQUESTS": "Demandes d'amis",
   "SETTINGS.PRIVACY.WHO_CAN_SEND": "Qui peut vous envoyer une demande d'ami ?",
   "SETTINGS.PRIVACY.SECTION_DMS": "Messages directs",
   "SETTINGS.PRIVACY.SECTION_PRESENCE": "Présence",
   "SETTINGS.PRIVACY.COMING_SOON": "Ces paramètres ne sont pas encore actifs. Fonctionnalité à venir.",
-
   "SETTINGS.SECURITY.SECTION_2FA": "Authentification à deux facteurs",
   "SETTINGS.SECURITY.DESC_IDLE": "Ajoutez une couche de sécurité supplémentaire à votre compte en exigeant un code de votre application d'authentification lors de la connexion.",
   "SETTINGS.SECURITY.ENABLE": "Activer la 2FA",
@@ -215,7 +222,23 @@
   "SETTINGS.SECURITY.REGENERATE_TITLE": "Générer de nouveaux codes de récupération",
   "SETTINGS.SECURITY.REGENERATE_WARNING": "Vos codes de récupération existants cesseront de fonctionner immédiatement. Entrez votre mot de passe pour confirmer.",
   "SETTINGS.SECURITY.REGENERATE_CONFIRM": "Générer de nouveaux codes",
-
+  "SETTINGS.DEVICES.SECTION": "Appareils connectés",
+  "SETTINGS.DEVICES.DESC": "Tous les appareils connectés à votre compte. Déconnectez ceux que vous ne reconnaissez pas.",
+  "SETTINGS.DEVICES.LOADING": "Chargement de vos appareils…",
+  "SETTINGS.DEVICES.LOAD_FAILED": "Impossible de charger vos appareils",
+  "SETTINGS.DEVICES.RETRY": "Réessayer",
+  "SETTINGS.DEVICES.EMPTY": "Aucun autre appareil n'est connecté.",
+  "SETTINGS.DEVICES.THIS_DEVICE": "Cet appareil",
+  "SETTINGS.DEVICES.LAST_ACTIVE": "Dernière activité",
+  "SETTINGS.DEVICES.CURRENT_HINT": "Utilisez « Se déconnecter » pour terminer la session sur cet appareil.",
+  "SETTINGS.DEVICES.REVOKE": "Déconnecter cet appareil",
+  "SETTINGS.DEVICES.REVOKE_TITLE": "Déconnecter l'appareil",
+  "SETTINGS.DEVICES.REVOKE_DESC": "{{device}} sera déconnecté et devra saisir votre mot de passe pour revenir.",
+  "SETTINGS.DEVICES.REVOKE_DELAY_NOTE": "L'appareil ne peut plus renouveler sa session immédiatement, mais un jeton déjà émis peut rester valide jusqu'à une heure.",
+  "SETTINGS.DEVICES.REVOKE_CONFIRM": "Déconnecter l'appareil",
+  "SETTINGS.DEVICES.REVOKED": "{{device}} déconnecté",
+  "SETTINGS.DEVICES.REVOKE_FAILED": "Impossible de déconnecter cet appareil",
+  "SETTINGS.DEVICES.CANCEL": "Annuler",
   "SETTINGS.NOTIFICATIONS.SECTION_GENERAL": "Général",
   "SETTINGS.NOTIFICATIONS.ENABLE": "Activer les notifications",
   "SETTINGS.NOTIFICATIONS.ENABLE_DESC": "Recevoir des alertes pour les messages et l'activité.",
@@ -235,7 +258,6 @@
   "SETTINGS.NOTIFICATIONS.PREVIEW": "Aperçu",
   "SETTINGS.NOTIFICATIONS.SOUND_DEFAULT": "Par défaut",
   "SETTINGS.NOTIFICATIONS.UPLOAD_WAV": "Télécharger .wav",
-
   "SETTINGS.VOICE.SECTION_MIC": "Microphone",
   "SETTINGS.VOICE.INPUT_DEVICE": "Périphérique d'entrée",
   "SETTINGS.VOICE.MIC_PLACEHOLDER": "Sélectionner un microphone",
@@ -244,7 +266,6 @@
   "SETTINGS.VOICE.INPUT_LEVEL_IDLE": "Démarrer le test pour vérifier votre microphone",
   "SETTINGS.VOICE.STOP": "Arrêter",
   "SETTINGS.VOICE.TEST_MIC": "Tester le micro",
-
   "SETTINGS.OTHER.SECTION_LANGUAGE": "Langue & Région",
   "SETTINGS.OTHER.LANGUAGE": "Langue",
   "SETTINGS.OTHER.SECTION_SYSTEM": "Système",
@@ -258,7 +279,6 @@
   "SETTINGS.OTHER.CHECKING": "Vérification…",
   "SETTINGS.OTHER.UP_TO_DATE": "Vous êtes à jour",
   "SETTINGS.OTHER.CHECK_FAILED": "Vérification échouée",
-
   "LOGOUT.TITLE": "Se déconnecter",
   "LOGOUT.SUBTITLE": "Souhaitez-vous exporter vos clés de chiffrement avant de vous déconnecter ? Cela vous permet de restaurer vos messages chiffrés sur un autre appareil.",
   "LOGOUT.CANCEL": "Annuler",
@@ -277,7 +297,6 @@
   "LOGOUT.ANYWAY": "Se déconnecter quand même",
   "LOGOUT.PROCESSING": "Déconnexion en cours…",
   "LOGOUT.PROCESSING_SUBTITLE": "Suppression des données locales. Un instant.",
-
   "GUILD.NO_CHANNELS": "Aucun canal pour l'instant",
   "GUILD.WIKI": "Wiki",
   "GUILD.INVITE_PEOPLE": "Inviter des personnes",
@@ -304,7 +323,6 @@
   "GUILD.CATEGORY_NAME": "Nom de la catégorie",
   "GUILD.CATEGORY_NAME_PLACEHOLDER": "ex. GÉNÉRAL",
   "GUILD.CREATE_CATEGORY_SUBMIT": "Créer la catégorie",
-
   "CREATE_GUILD.TITLE": "Créer un serveur",
   "CREATE_GUILD.SERVER_NAME": "Nom du serveur",
   "CREATE_GUILD.DESCRIPTION": "Description",
@@ -315,7 +333,6 @@
   "CREATE_GUILD.CREATE": "Créer le serveur",
   "CREATE_GUILD.IMPORT_FROM_DISCORD": "Importer depuis Discord",
   "CREATE_GUILD.IMPORT_ERROR_TOAST": "Échec du démarrage de l'importation Discord",
-
   "DISCORD_IMPORT.TITLE": "Importation depuis Discord",
   "DISCORD_IMPORT.STATUS_PENDING": "Démarrage de l'importation…",
   "DISCORD_IMPORT.STATUS_FETCHING": "Récupération de la structure depuis Discord…",
@@ -327,14 +344,15 @@
   "DISCORD_IMPORT.POLL_ERROR": "Échec de la vérification du statut de l'importation",
   "DISCORD_IMPORT.LINK_ERROR_TOAST": "Échec de l'importation Discord : {{ error }}",
   "DISCORD_IMPORT.GUILD_NOT_FOUND": "Importation terminée, mais le nouveau serveur est introuvable. Vérifiez votre liste de serveurs.",
-
   "GUILD_SETTINGS.SERVER": "Serveur",
+  "GUILD_SETTINGS.NO_ACCESS_TITLE": "Vous ne pouvez pas gérer ce serveur",
+  "GUILD_SETTINGS.NO_ACCESS_DESC": "Les paramètres du serveur sont réservés au propriétaire et aux membres disposant de la permission « Gérer le serveur ». Demandez à un administrateur du serveur si vous avez besoin d'y accéder.",
+  "GUILD_SETTINGS.CLOSE": "Fermer",
   "GUILD_SETTINGS.NAV.OVERVIEW": "Aperçu",
   "GUILD_SETTINGS.NAV.MEMBERS": "Membres",
   "GUILD_SETTINGS.NAV.ROLES": "Rôles",
   "GUILD_SETTINGS.NAV.INVITES": "Invitations",
   "GUILD_SETTINGS.NAV.DISCORD_SYNC": "Synchro Discord",
-
   "GUILD_SETTINGS.OVERVIEW.SERVER_ICON": "Icône du serveur",
   "GUILD_SETTINGS.OVERVIEW.UPLOAD_IMAGE": "Télécharger une image",
   "GUILD_SETTINGS.OVERVIEW.REMOVE_ICON": "Supprimer",
@@ -354,7 +372,6 @@
   "GUILD_SETTINGS.OVERVIEW.VERIFY_MEDIUM_HINT": "Les membres doivent avoir une adresse e-mail vérifiée et un compte vieux d'au moins 5 minutes.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_HIGH_HINT": "Les membres doivent avoir une adresse e-mail vérifiée, un compte vieux d'au moins 5 minutes et un numéro de téléphone vérifié.",
   "GUILD_SETTINGS.OVERVIEW.SAVE_ERROR": "Échec de l'enregistrement des paramètres du serveur",
-
   "GUILD_SETTINGS.INVITES.PERMANENT": "Invitation permanente",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "Invitation unique",
   "GUILD_SETTINGS.INVITES.HINT": "Les invitations permanentes n'expirent jamais. Les invitations uniques ne peuvent être utilisées qu'une seule fois.",
@@ -366,7 +383,6 @@
   "GUILD_SETTINGS.INVITES.CREATED": "Créée {{ date }}",
   "GUILD_SETTINGS.INVITES.COPY_LINK": "Copier le lien",
   "GUILD_SETTINGS.INVITES.REVOKE": "Révoquer",
-
   "GUILD_SETTINGS.DISCORD_SYNC.TITLE": "Synchro Discord",
   "GUILD_SETTINGS.DISCORD_SYNC.HINT": "Les changements de structure sur le serveur Discord lié (catégories, salons, rôles) sont appliqués ici automatiquement.",
   "GUILD_SETTINGS.DISCORD_SYNC.LOADING": "Chargement…",
@@ -385,7 +401,6 @@
   "GUILD_SETTINGS.DISCORD_SYNC.UPDATE_ERROR": "Échec de la mise à jour du statut de synchronisation",
   "GUILD_SETTINGS.DISCORD_SYNC.UNLINK_SUCCESS": "Serveur Discord dissocié",
   "GUILD_SETTINGS.DISCORD_SYNC.UNLINK_ERROR": "Échec de la dissociation du serveur Discord",
-
   "GUILD_SETTINGS.MEMBERS.SEARCH_PLACEHOLDER": "Rechercher des membres…",
   "GUILD_SETTINGS.MEMBERS.COUNT_SINGLE": "{{ count }} membre",
   "GUILD_SETTINGS.MEMBERS.COUNT_PLURAL": "{{ count }} membres",
@@ -399,7 +414,6 @@
   "GUILD_SETTINGS.MEMBERS.KICK_TITLE": "Expulser le membre",
   "GUILD_SETTINGS.MEMBERS.KICK_CONFIRM": "Êtes-vous sûr de vouloir expulser {{ name }} ? Il pourra rejoindre avec une nouvelle invitation.",
   "GUILD_SETTINGS.MEMBERS.KICK_BTN": "Expulser",
-
   "GUILD_SETTINGS.ROLES.NEW_ROLE": "Nouveau rôle",
   "GUILD_SETTINGS.ROLES.SELECT_HINT": "Sélectionner un rôle à modifier",
   "GUILD_SETTINGS.ROLES.TAB_SETTINGS": "Paramètres",
@@ -426,7 +440,6 @@
   "GUILD_SETTINGS.ROLES.DELETE_BTN": "Supprimer",
   "GUILD_SETTINGS.ROLES.CANCEL": "Annuler",
   "GUILD_SETTINGS.ROLES.ADD_MEMBER_TITLE": "Ajouter un membre au rôle",
-
   "GUILD_SETTINGS.MODERATION.LOADING": "Chargement…",
   "GUILD_SETTINGS.MODERATION.ENABLE_TITLE": "Activer l'auto-modération",
   "GUILD_SETTINGS.MODERATION.ENABLE_DESC": "Filtre automatiquement les messages contenant des mots bloqués et applique des limites de fréquence.",
@@ -445,7 +458,6 @@
   "GUILD_SETTINGS.MODERATION.RATE_LIMIT_INCOMPLETE": "Indiquez à la fois un nombre de messages et un intervalle pour la limite de fréquence.",
   "GUILD_SETTINGS.MODERATION.SAVE_SUCCESS": "Paramètres de modération enregistrés",
   "GUILD_SETTINGS.MODERATION.SAVE_ERROR": "Échec de l'enregistrement des paramètres de modération",
-
   "GUILD_SETTINGS.ONBOARDING.LOADING": "Chargement…",
   "GUILD_SETTINGS.ONBOARDING.ENABLE_TITLE": "Activer l'intégration",
   "GUILD_SETTINGS.ONBOARDING.ENABLE_DESC": "Les nouveaux membres doivent lire et accepter les règles ci-dessous avant de pouvoir discuter.",
@@ -460,14 +472,12 @@
   "GUILD_SETTINGS.ONBOARDING.LOAD_ERROR": "Échec du chargement des paramètres d'intégration",
   "GUILD_SETTINGS.ONBOARDING.SAVE_SUCCESS": "Paramètres d'intégration enregistrés",
   "GUILD_SETTINGS.ONBOARDING.SAVE_ERROR": "Échec de l'enregistrement des paramètres d'intégration",
-
   "ONBOARDING_GATE.RULES_HEADING": "Lisez et acceptez les règles",
   "ONBOARDING_GATE.CHANNELS_HINT": "Découvrez ces salons pour commencer :",
   "ONBOARDING_GATE.ACCEPT": "Accepter",
   "ONBOARDING_GATE.ACCEPT_ERROR": "Échec de l'acceptation des règles. Veuillez réessayer.",
   "ONBOARDING_GATE.LEAVE_SERVER": "Quitter le serveur",
   "CHANNEL.FOLLOW": "Suivre le canal",
-
   "FOLLOW_CHANNEL.TITLE": "Suivre #{{ channel }}",
   "FOLLOW_CHANNEL.EXPLANATION": "Les publications de ce canal seront copiées dans le canal que vous choisissez ci-dessous. Les mentions sont supprimées, et les messages relayés arrivent comme des messages ordinaires, sans badge particulier.",
   "FOLLOW_CHANNEL.SELECT_SERVER_LABEL": "Serveur",
@@ -480,15 +490,12 @@
   "FOLLOW_CHANNEL.NEED_MANAGE_CHANNEL": "Vous avez besoin de la permission Gérer le canal dans le serveur de destination",
   "FOLLOW_CHANNEL.FOLLOW_ERROR_TOAST": "Échec du suivi du canal",
   "FOLLOW_CHANNEL.SUCCESS_TOAST": "Vous suivez maintenant ce canal",
-
   "CHANNEL_SETTINGS.NAV.OVERVIEW": "Aperçu",
   "CHANNEL_SETTINGS.NAV.PERMISSIONS": "Permissions",
   "CHANNEL_SETTINGS.OVERVIEW.SAVE": "Enregistrer les modifications",
   "CHANNEL_SETTINGS.OVERVIEW.RESET": "Réinitialiser",
-
   "CATEGORY_SETTINGS.NAV.OVERVIEW": "Aperçu",
   "CATEGORY_SETTINGS.NAV.PERMISSIONS": "Permissions",
-
   "CONVERSATION.ONLINE": "En ligne",
   "CONVERSATION.OFFLINE": "Hors ligne",
   "CONVERSATION.E2E_TITLE": "Chiffré de bout en bout",
@@ -510,18 +517,15 @@
   "CONVERSATION.LOADING_OLDER": "Chargement des anciens messages…",
   "CONVERSATION.START_OF_HISTORY": "Voici le début de votre historique de messages directs avec",
   "CONVERSATION.NEW_MESSAGES": "Nouveaux messages",
-
   "COMPOSER.DROP_FILES": "Déposer les fichiers ici",
   "COMPOSER.REPLYING_TO": "Répondre à",
   "COMPOSER.CANCEL_REPLY": "annuler",
   "COMPOSER.AUTOMOD_BLOCKED_WORD": "Ce message contient un mot bloqué et n'a pas été envoyé.",
   "COMPOSER.AUTOMOD_RATE_LIMITED": "Vous envoyez des messages trop rapidement. Merci de ralentir.",
-
   "CALL.INCOMING": "Appel vocal entrant",
   "CALL.DECLINE": "Refuser",
   "CALL.ACCEPT": "Accepter",
   "CALL.CALLING": "Appel en cours",
-
   "KEY_SETUP.SECURE_TITLE": "Sécurisez votre compte",
   "KEY_SETUP.SECURE_SUBTITLE": "Venta utilise le chiffrement de bout en bout. Entrez votre mot de passe pour générer vos clés de chiffrement personnelles - cela n'arrive qu'une seule fois.",
   "KEY_SETUP.PASSWORD": "Mot de passe",
@@ -531,13 +535,11 @@
   "KEY_SETUP.PROCESSING_SUBTITLE": "Dérivation des clés et chiffrement. Un instant.",
   "KEY_SETUP.DONE_TITLE": "Coffre-fort prêt",
   "KEY_SETUP.DONE_SUBTITLE": "Vos clés de chiffrement sont configurées. Toutes vos données sont chiffrées de bout en bout.",
-
   "ENTROPY.TITLE": "Génération d'entropie",
   "ENTROPY.SUBTITLE": "Déplacez librement votre souris pour générer de l'aléatoire pour vos clés de chiffrement",
   "ENTROPY.COVERAGE": "Couverture",
   "ENTROPY.AUTO_COMPLETE": "Complétion automatique dans {{ seconds }}s",
   "ENTROPY.SKIP": "Ignorer",
-
   "DEVICE_REG.TITLE": "Enregistrer cet appareil",
   "DEVICE_REG.SUBTITLE": "Donnez un nom à cet appareil pour l'identifier dans vos paramètres de compte. Vos clés de chiffrement seront générées et stockées en sécurité sur cet appareil.",
   "DEVICE_REG.DEVICE_NAME": "Nom de l'appareil",
@@ -547,7 +549,6 @@
   "DEVICE_REG.PROCESSING_SUBTITLE": "Génération de vos clés de chiffrement. Un instant.",
   "DEVICE_REG.DONE_TITLE": "Appareil enregistré",
   "DEVICE_REG.DONE_SUBTITLE": "Votre appareil est prêt. Le chiffrement de bout en bout est actif.",
-
   "UPDATE.TITLE": "Mise à jour disponible",
   "UPDATE.WHATS_NEW": "Nouveautés",
   "UPDATE.DOWNLOADING": "Téléchargement de la mise à jour…",
@@ -555,7 +556,6 @@
   "UPDATE.UPDATE_NOW": "Mettre à jour maintenant",
   "UPDATE.DOWNLOADING_BTN": "Téléchargement…",
   "UPDATE.NEW_BADGE": "Nouveau",
-
   "WIKI.HOME": "Accueil",
   "WIKI.PINNED": "Épinglé",
   "WIKI.CATEGORIES": "Catégories",
@@ -571,19 +571,16 @@
   "WIKI.CATEGORY": "Catégorie",
   "WIKI.PARENT": "Parent",
   "WIKI.PINNED_LABEL": "Épinglé",
-
   "SCREEN_PICKER.TITLE": "Partager votre écran",
   "SCREEN_PICKER.SCREENS": "Écrans",
   "SCREEN_PICKER.WINDOWS": "Fenêtres",
   "SCREEN_PICKER.CANCEL": "Annuler",
   "SCREEN_PICKER.SHARE": "Partager",
-
   "PROFILE.MEMBER_SINCE": "Membre depuis",
   "PROFILE.FRIENDS_SINCE": "Amis depuis",
   "PROFILE.ADD_FRIEND": "Ajouter en ami",
   "PROFILE.MESSAGE": "Message",
   "PROFILE.BLOCK": "Bloquer",
-
   "COMMON.SAVE": "Enregistrer",
   "COMMON.CANCEL": "Annuler",
   "COMMON.DELETE": "Supprimer",
@@ -595,17 +592,14 @@
   "COMMON.ERROR": "Erreur",
   "COMMON.SUCCESS": "Succès",
   "COMMON.RETRY": "Réessayer",
-
   "CONVERSATION_LIST.NO_MESSAGES_YET": "Pas encore de messages",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Supprimer la conversation",
   "CONVERSATION_LIST.LOAD_MORE": "Charger plus",
-
   "CONVERSATION.INFO_ACTIONS": "Actions",
   "CONVERSATION.INFO_VOICE_CALL": "Appel vocal",
   "CONVERSATION.INFO_VIDEO_CALL": "Appel vidéo",
   "CONVERSATION.INFO_MEMBERS_COUNT": "Membres - {{ count }}",
   "CONVERSATION.SEARCH_FROM": "de {{ name }} · {{ date }}",
-
   "MESSAGE.REPLY_ATTACHMENT": "(pièce jointe)",
   "MESSAGE.REPLY_ORIGINAL": "Message original",
   "MESSAGE.FAILED_TO_SEND": "Échec de l'envoi",
@@ -645,14 +639,11 @@
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.7": "%USER% a disparu",
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.8": "%USER% a dit au revoir",
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.9": "%USER% ne fait plus partie du serveur",
-
   "GIF.SEARCH_PLACEHOLDER": "Rechercher des GIFs...",
   "GIF.NO_RESULTS": "Aucun résultat",
-
   "SUGGESTION.MENTION_HEADER": "Mentionner un membre",
   "SUGGESTION.COMMANDS_HEADER": "Commandes",
   "SUGGESTION.EMOJI_HEADER": "Emoji",
-
   "CALL.PANEL_TITLE": "Appel vocal",
   "CALL.CONNECTION_FAILED_MSG": "Échec de la connexion WebRTC - vous ne pourrez peut-être pas entendre les autres",
   "CALL.CONNECTION_LOST_MSG": "Connexion perdue - tentative de reconnexion en cours",
@@ -669,7 +660,6 @@
   "CALL.TOGGLE_SCREEN_SHARE": "Activer/désactiver le partage d'écran",
   "CALL.END_CALL": "Terminer l'appel",
   "CALL.SCREEN_SHARE_LABEL": "Écran de {{ name }}",
-
   "INVITE.INVALID": "Invitation invalide ou expirée",
   "INVITE.UNKNOWN_SERVER": "Serveur inconnu",
   "INVITE.EXPIRED": "Invitation expirée",
@@ -681,7 +671,6 @@
   "INVITE.VERIFY_MEDIUM": "Ce serveur exige une adresse e-mail vérifiée et un compte vieux d'au moins 5 minutes pour le rejoindre.",
   "INVITE.VERIFY_HIGH": "Ce serveur exige une adresse e-mail vérifiée, un compte vieux d'au moins 5 minutes et un numéro de téléphone vérifié pour le rejoindre.",
   "INVITE.VERIFY_GENERIC": "Ce serveur a des exigences d'adhésion que vous ne remplissez pas actuellement.",
-
   "EVENTS.TITLE": "Événements",
   "EVENTS.EMPTY": "Aucun événement à venir",
   "EVENTS.LOAD_ERROR": "Impossible de charger les événements",
@@ -711,7 +700,6 @@
   "EVENTS.CANCEL_BUTTON": "Annuler",
   "EVENTS.SAVE": "Enregistrer",
   "EVENTS.SAVE_ERROR": "Échec de l'enregistrement de l'événement",
-
   "GUILD_SETTINGS.TEMPLATES.INTRO": "Enregistrez la structure de ce serveur — catégories, canaux et permissions des rôles — comme modèle réutilisable. Les modèles n'incluent pas les permissions spécifiques aux canaux, les membres ni les messages.",
   "GUILD_SETTINGS.TEMPLATES.NO_PERMISSION": "Vous n'avez pas la permission d'enregistrer ce serveur comme modèle.",
   "GUILD_SETTINGS.TEMPLATES.NAME_LABEL": "Nom du modèle",
@@ -731,7 +719,6 @@
   "GUILD_SETTINGS.TEMPLATES.COPY_ID": "Copier l'ID",
   "GUILD_SETTINGS.TEMPLATES.SAVE_ANOTHER": "Enregistrer un autre modèle",
   "GUILD_SETTINGS.TEMPLATES.SAVE_ERROR_TOAST": "Échec de l'enregistrement du modèle",
-
   "CREATE_GUILD.USE_A_TEMPLATE": "Utiliser un modèle",
   "CREATE_GUILD.TEMPLATE.BACK": "Retour",
   "CREATE_GUILD.TEMPLATE.ID_LABEL": "ID du modèle",

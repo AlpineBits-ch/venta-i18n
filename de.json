@@ -35,7 +35,6 @@
   "LOGIN.TERMS_OF_SERVICE": "Nutzungsbedingungen",
   "LOGIN.AND": "und der",
   "LOGIN.PRIVACY_POLICY": "Datenschutzrichtlinie",
-
   "LOGIN.MFA.TITLE": "Zwei-Faktor-Authentifizierung",
   "LOGIN.MFA.DESCRIPTION": "Gib den 6-stelligen Code aus deiner Authenticator-App ein, um fortzufahren.",
   "LOGIN.MFA.RECOVERY_DESCRIPTION": "Gib einen deiner Wiederherstellungscodes ein, um fortzufahren.",
@@ -45,7 +44,6 @@
   "LOGIN.MFA.USE_RECOVERY_CODE": "Stattdessen Wiederherstellungscode verwenden",
   "LOGIN.MFA.USE_AUTHENTICATOR_CODE": "Stattdessen Authenticator-Code verwenden",
   "LOGIN.MFA.VERIFY": "Bestätigen",
-
   "LOGIN.PASSWORD_RESET.TITLE": "Passwort zurücksetzen",
   "LOGIN.PASSWORD_RESET.REQUEST_DESCRIPTION": "Gib deine E-Mail-Adresse ein und wir senden dir einen Code zum Zurücksetzen deines Passworts.",
   "LOGIN.PASSWORD_RESET.EMAIL_LABEL": "E-Mail",
@@ -63,7 +61,27 @@
   "LOGIN.PASSWORD_RESET.RESEND_CODE": "Code erneut senden",
   "LOGIN.PASSWORD_RESET.RESEND_IN": "Erneut senden in {{ seconds }}s",
   "LOGIN.PASSWORD_RESET.SUBMIT": "Passwort zurücksetzen",
-
+  "LOGIN.LOGIN.USERNAME": "Benutzername",
+  "LOGIN.OR": "oder",
+  "LOGIN.SERVER.LABEL": "Server",
+  "LOGIN.SERVER.CHANGE": "Ändern",
+  "LOGIN.SERVER.UNREACHABLE": "Dieser Server ist nicht erreichbar.",
+  "LOGIN.SERVER.UNREACHABLE_NAMED": "{{server}} ist nicht erreichbar",
+  "LOGIN.SERVER.LOGIN_DISABLED": "Die Anmeldung ist auf diesem Server nicht aktiviert.",
+  "LOGIN.SERVER.REGISTER_DISABLED": "Die Registrierung ist auf diesem Server nicht aktiviert.",
+  "LOGIN.QR.CTA": "Mit QR-Code anmelden",
+  "LOGIN.QR.TITLE": "Zum Anmelden scannen",
+  "LOGIN.QR.SUBTITLE": "Öffne Venta auf deinem Handy und scanne diesen Code. Du bleibst auf beiden Geräten angemeldet.",
+  "LOGIN.QR.ARIA": "QR-Code für die Anmeldung per Handy",
+  "LOGIN.QR.WAITING": "Warten auf den Scan",
+  "LOGIN.QR.EXPIRES_IN": "Läuft ab in",
+  "LOGIN.QR.CONFIRM_ON_PHONE": "Auf dem Handy bestätigen",
+  "LOGIN.QR.SIGNING_IN": "Anmeldung läuft …",
+  "LOGIN.QR.DENIED": "Die Anmeldung wurde auf deinem Handy abgelehnt. Erstelle einen neuen Code, um es erneut zu versuchen.",
+  "LOGIN.QR.EXPIRED": "Dieser Code ist abgelaufen. Erstelle einen neuen, um fortzufahren.",
+  "LOGIN.QR.ERROR": "Der Server konnte nicht erreicht werden. Erstelle einen neuen Code, um es erneut zu versuchen.",
+  "LOGIN.QR.NEW_CODE": "Neuen Code erstellen",
+  "LOGIN.QR.USE_PASSWORD": "Stattdessen Passwort verwenden",
   "HOME.TITLE": "Freunde",
   "HOME.ADD_FRIEND": "+ Freund hinzufügen",
   "HOME.CANCEL": "Abbrechen",
@@ -95,7 +113,6 @@
   "HOME.UNBLOCK": "Entsperren",
   "HOME.BLOCK": "Sperren",
   "HOME.MESSAGE": "Nachricht",
-
   "SIDEBAR.FRIENDS": "Freunde",
   "SIDEBAR.ONLINE": "Online",
   "SIDEBAR.DIRECT_MESSAGES": "Direktnachrichten",
@@ -104,13 +121,10 @@
   "SIDEBAR.NOBODY_ONLINE": "Gerade ist niemand online",
   "SIDEBAR.OFFLINE_COUNT": "Offline - {{ count }}",
   "SIDEBAR.OFFLINE": "Offline",
-
   "ACTIVITY.ONLINE_COUNT": "Online - {{ count }}",
-
   "CONNECTION.CONNECTED": "Verbunden",
   "CONNECTION.CONNECTING": "Verbinde…",
   "CONNECTION.DISCONNECTED": "Getrennt",
-
   "VOICE_BAR.FAILED": "Verbindung fehlgeschlagen",
   "VOICE_BAR.LOST": "Verbindung verloren",
   "VOICE_BAR.AUDIO_INTERRUPTED": "Audio kann unterbrochen sein",
@@ -118,7 +132,6 @@
   "VOICE_BAR.VOICE_CONNECTED": "Sprachverbindung aktiv",
   "VOICE_BAR.DISCONNECT": "Vom Sprachkanal trennen",
   "VOICE_BAR.CONNECTION_FAILED_WARN": "{{ state }} - Audio kann unterbrochen sein",
-
   "PROX_CHAT.CONNECT": "Mit dem Isle-Proximity-Chat verbinden",
   "PROX_CHAT.CONNECT_ACTION": "Verbinden",
   "PROX_CHAT.CONNECTING": "Verbinde…",
@@ -138,12 +151,10 @@
   "PROX_CHAT.MUTE": "Mikrofon stummschalten",
   "PROX_CHAT.UNMUTE": "Stummschaltung aufheben",
   "PROX_CHAT.PEERS_NEARBY": "{{ count }} in der Nähe",
-
   "QUICK_SETTINGS.MUTE": "Stummschalten",
   "QUICK_SETTINGS.UNMUTE": "Stummschaltung aufheben",
   "QUICK_SETTINGS.DEAFEN": "Taubschalten",
   "QUICK_SETTINGS.UNDEAFEN": "Taubschaltung aufheben",
-
   "NEW_CONVERSATION.TITLE": "Neue Nachricht",
   "NEW_CONVERSATION.SEARCH_PLACEHOLDER": "Freunde suchen...",
   "NEW_CONVERSATION.NO_FRIENDS": "Keine Freunde gefunden",
@@ -153,7 +164,6 @@
   "NEW_CONVERSATION.E2E_HINT": "Erfordert MLS-Geräteregistrierung",
   "NEW_CONVERSATION.CANCEL": "Abbrechen",
   "NEW_CONVERSATION.OPEN": "Öffnen",
-
   "SETTINGS.TITLE": "Einstellungen",
   "SETTINGS.NAV.MY_ACCOUNT": "Mein Konto",
   "SETTINGS.NAV.APP_SETTINGS": "App-Einstellungen",
@@ -164,7 +174,6 @@
   "SETTINGS.NAV.APPEARANCE": "Erscheinungsbild",
   "SETTINGS.NAV.OTHER": "Sonstiges",
   "SETTINGS.LOG_OUT": "Abmelden",
-
   "SETTINGS.PROFILE.SECTION_AVATAR": "Avatar",
   "SETTINGS.PROFILE.CHANGE_AVATAR": "Avatar ändern",
   "SETTINGS.PROFILE.REMOVE_AVATAR": "Entfernen",
@@ -183,13 +192,11 @@
   "SETTINGS.PROFILE.SAVE_CHANGES": "Änderungen speichern",
   "SETTINGS.PROFILE.RESET": "Zurücksetzen",
   "SETTINGS.PROFILE.CROP_AVATAR": "Avatar zuschneiden",
-
   "SETTINGS.PRIVACY.SECTION_FRIEND_REQUESTS": "Freundschaftsanfragen",
   "SETTINGS.PRIVACY.WHO_CAN_SEND": "Wer kann dir eine Freundschaftsanfrage senden?",
   "SETTINGS.PRIVACY.SECTION_DMS": "Direktnachrichten",
   "SETTINGS.PRIVACY.SECTION_PRESENCE": "Anwesenheit",
   "SETTINGS.PRIVACY.COMING_SOON": "Diese Einstellungen sind noch nicht aktiv. Funktion kommt bald.",
-
   "SETTINGS.SECURITY.SECTION_2FA": "Zwei-Faktor-Authentifizierung",
   "SETTINGS.SECURITY.DESC_IDLE": "Schütze dein Konto zusätzlich, indem beim Anmelden ein Code aus deiner Authenticator-App verlangt wird.",
   "SETTINGS.SECURITY.ENABLE": "2FA aktivieren",
@@ -215,7 +222,23 @@
   "SETTINGS.SECURITY.REGENERATE_TITLE": "Neue Wiederherstellungscodes erstellen",
   "SETTINGS.SECURITY.REGENERATE_WARNING": "Deine bestehenden Wiederherstellungscodes funktionieren danach sofort nicht mehr. Gib dein Passwort ein, um zu bestätigen.",
   "SETTINGS.SECURITY.REGENERATE_CONFIRM": "Neue Codes erstellen",
-
+  "SETTINGS.DEVICES.SECTION": "Angemeldete Geräte",
+  "SETTINGS.DEVICES.DESC": "Alle Geräte, die bei deinem Konto angemeldet sind. Melde alle ab, die du nicht kennst.",
+  "SETTINGS.DEVICES.LOADING": "Geräte werden geladen …",
+  "SETTINGS.DEVICES.LOAD_FAILED": "Geräte konnten nicht geladen werden",
+  "SETTINGS.DEVICES.RETRY": "Erneut versuchen",
+  "SETTINGS.DEVICES.EMPTY": "Es sind keine weiteren Geräte angemeldet.",
+  "SETTINGS.DEVICES.THIS_DEVICE": "Dieses Gerät",
+  "SETTINGS.DEVICES.LAST_ACTIVE": "Zuletzt aktiv",
+  "SETTINGS.DEVICES.CURRENT_HINT": "Nutze „Abmelden“, um die Sitzung auf diesem Gerät zu beenden.",
+  "SETTINGS.DEVICES.REVOKE": "Dieses Gerät abmelden",
+  "SETTINGS.DEVICES.REVOKE_TITLE": "Gerät abmelden",
+  "SETTINGS.DEVICES.REVOKE_DESC": "{{device}} wird abgemeldet und braucht dein Passwort für einen neuen Zugang.",
+  "SETTINGS.DEVICES.REVOKE_DELAY_NOTE": "Das Gerät kann seine Sitzung sofort nicht mehr erneuern, ein bereits ausgestelltes Token kann aber noch bis zu einer Stunde funktionieren.",
+  "SETTINGS.DEVICES.REVOKE_CONFIRM": "Gerät abmelden",
+  "SETTINGS.DEVICES.REVOKED": "{{device}} abgemeldet",
+  "SETTINGS.DEVICES.REVOKE_FAILED": "Gerät konnte nicht abgemeldet werden",
+  "SETTINGS.DEVICES.CANCEL": "Abbrechen",
   "SETTINGS.NOTIFICATIONS.SECTION_GENERAL": "Allgemein",
   "SETTINGS.NOTIFICATIONS.ENABLE": "Benachrichtigungen aktivieren",
   "SETTINGS.NOTIFICATIONS.ENABLE_DESC": "Benachrichtigungen für Nachrichten und Aktivitäten erhalten.",
@@ -235,7 +258,6 @@
   "SETTINGS.NOTIFICATIONS.PREVIEW": "Vorschau",
   "SETTINGS.NOTIFICATIONS.SOUND_DEFAULT": "Standard",
   "SETTINGS.NOTIFICATIONS.UPLOAD_WAV": ".wav hochladen",
-
   "SETTINGS.VOICE.SECTION_MIC": "Mikrofon",
   "SETTINGS.VOICE.INPUT_DEVICE": "Eingabegerät",
   "SETTINGS.VOICE.MIC_PLACEHOLDER": "Mikrofon auswählen",
@@ -244,7 +266,6 @@
   "SETTINGS.VOICE.INPUT_LEVEL_IDLE": "Test starten, um dein Mikrofon zu prüfen",
   "SETTINGS.VOICE.STOP": "Stopp",
   "SETTINGS.VOICE.TEST_MIC": "Mikrofon testen",
-
   "SETTINGS.OTHER.SECTION_LANGUAGE": "Sprache & Region",
   "SETTINGS.OTHER.LANGUAGE": "Sprache",
   "SETTINGS.OTHER.SECTION_SYSTEM": "System",
@@ -258,7 +279,6 @@
   "SETTINGS.OTHER.CHECKING": "Suche…",
   "SETTINGS.OTHER.UP_TO_DATE": "Du bist auf dem neuesten Stand",
   "SETTINGS.OTHER.CHECK_FAILED": "Suche fehlgeschlagen",
-
   "LOGOUT.TITLE": "Abmelden",
   "LOGOUT.SUBTITLE": "Möchtest du deine Verschlüsselungsschlüssel vor dem Abmelden exportieren? So kannst du deine verschlüsselten Nachrichten auf einem anderen Gerät wiederherstellen.",
   "LOGOUT.CANCEL": "Abbrechen",
@@ -277,7 +297,6 @@
   "LOGOUT.ANYWAY": "Trotzdem abmelden",
   "LOGOUT.PROCESSING": "Abmeldung läuft…",
   "LOGOUT.PROCESSING_SUBTITLE": "Lokale Daten werden gelöscht. Einen Moment.",
-
   "GUILD.NO_CHANNELS": "Noch keine Kanäle",
   "GUILD.WIKI": "Wiki",
   "GUILD.INVITE_PEOPLE": "Personen einladen",
@@ -304,7 +323,6 @@
   "GUILD.CATEGORY_NAME": "Kategoriename",
   "GUILD.CATEGORY_NAME_PLACEHOLDER": "z.B. ALLGEMEIN",
   "GUILD.CREATE_CATEGORY_SUBMIT": "Kategorie erstellen",
-
   "CREATE_GUILD.TITLE": "Server erstellen",
   "CREATE_GUILD.SERVER_NAME": "Servername",
   "CREATE_GUILD.DESCRIPTION": "Beschreibung",
@@ -315,7 +333,6 @@
   "CREATE_GUILD.CREATE": "Server erstellen",
   "CREATE_GUILD.IMPORT_FROM_DISCORD": "Von Discord importieren",
   "CREATE_GUILD.IMPORT_ERROR_TOAST": "Discord-Import konnte nicht gestartet werden",
-
   "DISCORD_IMPORT.TITLE": "Import von Discord",
   "DISCORD_IMPORT.STATUS_PENDING": "Import wird gestartet…",
   "DISCORD_IMPORT.STATUS_FETCHING": "Struktur wird von Discord abgerufen…",
@@ -327,14 +344,15 @@
   "DISCORD_IMPORT.POLL_ERROR": "Fehler beim Prüfen des Importstatus",
   "DISCORD_IMPORT.LINK_ERROR_TOAST": "Discord-Import fehlgeschlagen: {{ error }}",
   "DISCORD_IMPORT.GUILD_NOT_FOUND": "Import abgeschlossen, aber der neue Server konnte nicht gefunden werden. Prüfe deine Serverliste.",
-
   "GUILD_SETTINGS.SERVER": "Server",
+  "GUILD_SETTINGS.NO_ACCESS_TITLE": "Du kannst diesen Server nicht verwalten",
+  "GUILD_SETTINGS.NO_ACCESS_DESC": "Die Servereinstellungen stehen der Inhaberin bzw. dem Inhaber und Mitgliedern mit der Berechtigung „Server verwalten“ offen. Frag eine Server-Admin, wenn du Zugriff brauchst.",
+  "GUILD_SETTINGS.CLOSE": "Schließen",
   "GUILD_SETTINGS.NAV.OVERVIEW": "Übersicht",
   "GUILD_SETTINGS.NAV.MEMBERS": "Mitglieder",
   "GUILD_SETTINGS.NAV.ROLES": "Rollen",
   "GUILD_SETTINGS.NAV.INVITES": "Einladungen",
   "GUILD_SETTINGS.NAV.DISCORD_SYNC": "Discord-Sync",
-
   "GUILD_SETTINGS.OVERVIEW.SERVER_ICON": "Server-Symbol",
   "GUILD_SETTINGS.OVERVIEW.UPLOAD_IMAGE": "Bild hochladen",
   "GUILD_SETTINGS.OVERVIEW.REMOVE_ICON": "Entfernen",
@@ -354,7 +372,6 @@
   "GUILD_SETTINGS.OVERVIEW.VERIFY_MEDIUM_HINT": "Mitglieder müssen eine verifizierte E-Mail-Adresse und ein mindestens 5 Minuten altes Konto haben.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_HIGH_HINT": "Mitglieder müssen eine verifizierte E-Mail-Adresse, ein mindestens 5 Minuten altes Konto und eine verifizierte Telefonnummer haben.",
   "GUILD_SETTINGS.OVERVIEW.SAVE_ERROR": "Servereinstellungen konnten nicht gespeichert werden",
-
   "GUILD_SETTINGS.INVITES.PERMANENT": "Dauereinladung",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "Einmaleinladung",
   "GUILD_SETTINGS.INVITES.HINT": "Dauereinladungen laufen nie ab. Einmaleinladungen können nur einmal verwendet werden.",
@@ -366,7 +383,6 @@
   "GUILD_SETTINGS.INVITES.CREATED": "Erstellt {{ date }}",
   "GUILD_SETTINGS.INVITES.COPY_LINK": "Link kopieren",
   "GUILD_SETTINGS.INVITES.REVOKE": "Widerrufen",
-
   "GUILD_SETTINGS.DISCORD_SYNC.TITLE": "Discord-Sync",
   "GUILD_SETTINGS.DISCORD_SYNC.HINT": "Strukturänderungen auf dem verknüpften Discord-Server (Kategorien, Kanäle, Rollen) werden hier automatisch übernommen.",
   "GUILD_SETTINGS.DISCORD_SYNC.LOADING": "Wird geladen…",
@@ -385,7 +401,6 @@
   "GUILD_SETTINGS.DISCORD_SYNC.UPDATE_ERROR": "Sync-Status konnte nicht aktualisiert werden",
   "GUILD_SETTINGS.DISCORD_SYNC.UNLINK_SUCCESS": "Discord-Server-Verknüpfung aufgehoben",
   "GUILD_SETTINGS.DISCORD_SYNC.UNLINK_ERROR": "Discord-Server konnte nicht getrennt werden",
-
   "GUILD_SETTINGS.MEMBERS.SEARCH_PLACEHOLDER": "Mitglieder suchen…",
   "GUILD_SETTINGS.MEMBERS.COUNT_SINGLE": "{{ count }} Mitglied",
   "GUILD_SETTINGS.MEMBERS.COUNT_PLURAL": "{{ count }} Mitglieder",
@@ -399,7 +414,6 @@
   "GUILD_SETTINGS.MEMBERS.KICK_TITLE": "Mitglied kicken",
   "GUILD_SETTINGS.MEMBERS.KICK_CONFIRM": "Bist du sicher, dass du {{ name }} kicken möchtest? Sie können mit einer neuen Einladung wieder beitreten.",
   "GUILD_SETTINGS.MEMBERS.KICK_BTN": "Kicken",
-
   "GUILD_SETTINGS.ROLES.NEW_ROLE": "Neue Rolle",
   "GUILD_SETTINGS.ROLES.SELECT_HINT": "Rolle auswählen zum Bearbeiten",
   "GUILD_SETTINGS.ROLES.TAB_SETTINGS": "Einstellungen",
@@ -426,7 +440,6 @@
   "GUILD_SETTINGS.ROLES.DELETE_BTN": "Löschen",
   "GUILD_SETTINGS.ROLES.CANCEL": "Abbrechen",
   "GUILD_SETTINGS.ROLES.ADD_MEMBER_TITLE": "Mitglied zur Rolle hinzufügen",
-
   "GUILD_SETTINGS.MODERATION.LOADING": "Wird geladen…",
   "GUILD_SETTINGS.MODERATION.ENABLE_TITLE": "Auto-Moderation aktivieren",
   "GUILD_SETTINGS.MODERATION.ENABLE_DESC": "Nachrichten mit blockierten Wörtern automatisch filtern und Nachrichtenlimits anwenden.",
@@ -445,7 +458,6 @@
   "GUILD_SETTINGS.MODERATION.RATE_LIMIT_INCOMPLETE": "Gib für das Nachrichtenlimit sowohl eine Nachrichtenanzahl als auch ein Zeitintervall ein.",
   "GUILD_SETTINGS.MODERATION.SAVE_SUCCESS": "Moderationseinstellungen gespeichert",
   "GUILD_SETTINGS.MODERATION.SAVE_ERROR": "Moderationseinstellungen konnten nicht gespeichert werden",
-
   "GUILD_SETTINGS.ONBOARDING.LOADING": "Wird geladen…",
   "GUILD_SETTINGS.ONBOARDING.ENABLE_TITLE": "Onboarding aktivieren",
   "GUILD_SETTINGS.ONBOARDING.ENABLE_DESC": "Neue Mitglieder müssen die untenstehenden Regeln lesen und akzeptieren, bevor sie schreiben können.",
@@ -460,14 +472,12 @@
   "GUILD_SETTINGS.ONBOARDING.LOAD_ERROR": "Onboarding-Einstellungen konnten nicht geladen werden",
   "GUILD_SETTINGS.ONBOARDING.SAVE_SUCCESS": "Onboarding-Einstellungen gespeichert",
   "GUILD_SETTINGS.ONBOARDING.SAVE_ERROR": "Onboarding-Einstellungen konnten nicht gespeichert werden",
-
   "ONBOARDING_GATE.RULES_HEADING": "Lies die Regeln und akzeptiere sie",
   "ONBOARDING_GATE.CHANNELS_HINT": "Schau dir diese Kanäle an, um loszulegen:",
   "ONBOARDING_GATE.ACCEPT": "Akzeptieren",
   "ONBOARDING_GATE.ACCEPT_ERROR": "Die Regeln konnten nicht akzeptiert werden. Bitte versuche es erneut.",
   "ONBOARDING_GATE.LEAVE_SERVER": "Server verlassen",
   "CHANNEL.FOLLOW": "Kanal folgen",
-
   "FOLLOW_CHANNEL.TITLE": "#{{ channel }} folgen",
   "FOLLOW_CHANNEL.EXPLANATION": "Beiträge, die in diesem Kanal veröffentlicht werden, werden in den unten ausgewählten Kanal kopiert. Erwähnungen werden entfernt, und weitergeleitete Nachrichten erscheinen als gewöhnliche Nachrichten ohne besonderes Abzeichen.",
   "FOLLOW_CHANNEL.SELECT_SERVER_LABEL": "Server",
@@ -480,15 +490,12 @@
   "FOLLOW_CHANNEL.NEED_MANAGE_CHANNEL": "Du benötigst die Berechtigung „Kanäle verwalten“ im Zielserver",
   "FOLLOW_CHANNEL.FOLLOW_ERROR_TOAST": "Kanal konnte nicht gefolgt werden",
   "FOLLOW_CHANNEL.SUCCESS_TOAST": "Du folgst diesem Kanal jetzt",
-
   "CHANNEL_SETTINGS.NAV.OVERVIEW": "Übersicht",
   "CHANNEL_SETTINGS.NAV.PERMISSIONS": "Berechtigungen",
   "CHANNEL_SETTINGS.OVERVIEW.SAVE": "Änderungen speichern",
   "CHANNEL_SETTINGS.OVERVIEW.RESET": "Zurücksetzen",
-
   "CATEGORY_SETTINGS.NAV.OVERVIEW": "Übersicht",
   "CATEGORY_SETTINGS.NAV.PERMISSIONS": "Berechtigungen",
-
   "CONVERSATION.ONLINE": "Online",
   "CONVERSATION.OFFLINE": "Offline",
   "CONVERSATION.E2E_TITLE": "Ende-zu-Ende-verschlüsselt",
@@ -510,18 +517,15 @@
   "CONVERSATION.LOADING_OLDER": "Ältere Nachrichten laden…",
   "CONVERSATION.START_OF_HISTORY": "Dies ist der Beginn deines Direktnachrichtenverlaufs mit",
   "CONVERSATION.NEW_MESSAGES": "Neue Nachrichten",
-
   "COMPOSER.DROP_FILES": "Dateien hier ablegen",
   "COMPOSER.REPLYING_TO": "Antwort an",
   "COMPOSER.CANCEL_REPLY": "Abbrechen",
   "COMPOSER.AUTOMOD_BLOCKED_WORD": "Diese Nachricht enthält ein blockiertes Wort und wurde nicht gesendet.",
   "COMPOSER.AUTOMOD_RATE_LIMITED": "Du sendest Nachrichten zu schnell. Bitte verlangsame dein Tempo.",
-
   "CALL.INCOMING": "Eingehender Sprachanruf",
   "CALL.DECLINE": "Ablehnen",
   "CALL.ACCEPT": "Annehmen",
   "CALL.CALLING": "Anrufe",
-
   "KEY_SETUP.SECURE_TITLE": "Konto absichern",
   "KEY_SETUP.SECURE_SUBTITLE": "Venta verwendet Ende-zu-Ende-Verschlüsselung. Passwort eingeben, um persönliche Verschlüsselungsschlüssel zu generieren - das passiert nur einmal.",
   "KEY_SETUP.PASSWORD": "Passwort",
@@ -531,13 +535,11 @@
   "KEY_SETUP.PROCESSING_SUBTITLE": "Schlüssel ableiten und verschlüsseln. Einen Moment.",
   "KEY_SETUP.DONE_TITLE": "Tresor bereit",
   "KEY_SETUP.DONE_SUBTITLE": "Deine Verschlüsselungsschlüssel sind eingerichtet. Alle Daten sind Ende-zu-Ende-verschlüsselt.",
-
   "ENTROPY.TITLE": "Entropie generieren",
   "ENTROPY.SUBTITLE": "Bewege die Maus frei, um Zufälligkeit für deine Verschlüsselungsschlüssel zu generieren",
   "ENTROPY.COVERAGE": "Abdeckung",
   "ENTROPY.AUTO_COMPLETE": "Automatisch abschließen in {{ seconds }}s",
   "ENTROPY.SKIP": "Überspringen",
-
   "DEVICE_REG.TITLE": "Dieses Gerät registrieren",
   "DEVICE_REG.SUBTITLE": "Gib diesem Gerät einen Namen, damit du es in deinen Kontoeinstellungen erkennen kannst. Deine Verschlüsselungsschlüssel werden sicher auf diesem Gerät generiert und gespeichert.",
   "DEVICE_REG.DEVICE_NAME": "Gerätename",
@@ -547,7 +549,6 @@
   "DEVICE_REG.PROCESSING_SUBTITLE": "Verschlüsselungsschlüssel werden generiert. Einen Moment.",
   "DEVICE_REG.DONE_TITLE": "Gerät registriert",
   "DEVICE_REG.DONE_SUBTITLE": "Dein Gerät ist bereit. Ende-zu-Ende-Verschlüsselung ist aktiv.",
-
   "UPDATE.TITLE": "Update verfügbar",
   "UPDATE.WHATS_NEW": "Was ist neu",
   "UPDATE.DOWNLOADING": "Update wird heruntergeladen…",
@@ -555,7 +556,6 @@
   "UPDATE.UPDATE_NOW": "Jetzt aktualisieren",
   "UPDATE.DOWNLOADING_BTN": "Herunterladen…",
   "UPDATE.NEW_BADGE": "Neu",
-
   "WIKI.HOME": "Startseite",
   "WIKI.PINNED": "Angeheftet",
   "WIKI.CATEGORIES": "Kategorien",
@@ -571,19 +571,16 @@
   "WIKI.CATEGORY": "Kategorie",
   "WIKI.PARENT": "Übergeordnet",
   "WIKI.PINNED_LABEL": "Angeheftet",
-
   "SCREEN_PICKER.TITLE": "Bildschirm teilen",
   "SCREEN_PICKER.SCREENS": "Bildschirme",
   "SCREEN_PICKER.WINDOWS": "Fenster",
   "SCREEN_PICKER.CANCEL": "Abbrechen",
   "SCREEN_PICKER.SHARE": "Teilen",
-
   "PROFILE.MEMBER_SINCE": "Mitglied seit",
   "PROFILE.FRIENDS_SINCE": "Freunde seit",
   "PROFILE.ADD_FRIEND": "Freund hinzufügen",
   "PROFILE.MESSAGE": "Nachricht",
   "PROFILE.BLOCK": "Sperren",
-
   "COMMON.SAVE": "Speichern",
   "COMMON.CANCEL": "Abbrechen",
   "COMMON.DELETE": "Löschen",
@@ -595,17 +592,14 @@
   "COMMON.ERROR": "Fehler",
   "COMMON.SUCCESS": "Erfolg",
   "COMMON.RETRY": "Erneut versuchen",
-
   "CONVERSATION_LIST.NO_MESSAGES_YET": "Noch keine Nachrichten",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Gespräch löschen",
   "CONVERSATION_LIST.LOAD_MORE": "Mehr laden",
-
   "CONVERSATION.INFO_ACTIONS": "Aktionen",
   "CONVERSATION.INFO_VOICE_CALL": "Sprachanruf",
   "CONVERSATION.INFO_VIDEO_CALL": "Videoanruf",
   "CONVERSATION.INFO_MEMBERS_COUNT": "Mitglieder - {{ count }}",
   "CONVERSATION.SEARCH_FROM": "von {{ name }} · {{ date }}",
-
   "MESSAGE.REPLY_ATTACHMENT": "(Anhang)",
   "MESSAGE.REPLY_ORIGINAL": "Ursprüngliche Nachricht",
   "MESSAGE.FAILED_TO_SEND": "Senden fehlgeschlagen",
@@ -645,14 +639,11 @@
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.7": "%USER% ist verschwunden",
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.8": "%USER% hat sich verabschiedet",
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.9": "%USER% ist nicht mehr bei uns",
-
   "GIF.SEARCH_PLACEHOLDER": "GIFs suchen...",
   "GIF.NO_RESULTS": "Keine Ergebnisse",
-
   "SUGGESTION.MENTION_HEADER": "Mitglied erwähnen",
   "SUGGESTION.COMMANDS_HEADER": "Befehle",
   "SUGGESTION.EMOJI_HEADER": "Emoji",
-
   "CALL.PANEL_TITLE": "Sprachanruf",
   "CALL.CONNECTION_FAILED_MSG": "WebRTC-Verbindung fehlgeschlagen - andere können dich möglicherweise nicht hören",
   "CALL.CONNECTION_LOST_MSG": "Verbindung verloren - Wiederverbindung läuft",
@@ -669,7 +660,6 @@
   "CALL.TOGGLE_SCREEN_SHARE": "Bildschirmfreigabe umschalten",
   "CALL.END_CALL": "Anruf beenden",
   "CALL.SCREEN_SHARE_LABEL": "Bildschirm von {{ name }}",
-
   "INVITE.INVALID": "Ungültige oder abgelaufene Einladung",
   "INVITE.UNKNOWN_SERVER": "Unbekannter Server",
   "INVITE.EXPIRED": "Einladung abgelaufen",
@@ -681,7 +671,6 @@
   "INVITE.VERIFY_MEDIUM": "Dieser Server erfordert eine verifizierte E-Mail-Adresse und ein mindestens 5 Minuten altes Konto, um beizutreten.",
   "INVITE.VERIFY_HIGH": "Dieser Server erfordert eine verifizierte E-Mail-Adresse, ein mindestens 5 Minuten altes Konto und eine verifizierte Telefonnummer, um beizutreten.",
   "INVITE.VERIFY_GENERIC": "Dieser Server hat Mitgliedschaftsanforderungen, die du derzeit nicht erfüllst.",
-
   "EVENTS.TITLE": "Events",
   "EVENTS.EMPTY": "Keine anstehenden Events",
   "EVENTS.LOAD_ERROR": "Events konnten nicht geladen werden",
@@ -711,7 +700,6 @@
   "EVENTS.CANCEL_BUTTON": "Abbrechen",
   "EVENTS.SAVE": "Speichern",
   "EVENTS.SAVE_ERROR": "Event konnte nicht gespeichert werden",
-
   "GUILD_SETTINGS.TEMPLATES.INTRO": "Speichere die Struktur dieses Servers — Kategorien, Kanäle und Rollenberechtigungen — als wiederverwendbare Vorlage. Vorlagen enthalten keine Berechtigungsüberschreibungen für Kanäle, Mitglieder oder Nachrichten.",
   "GUILD_SETTINGS.TEMPLATES.NO_PERMISSION": "Du hast keine Berechtigung, diesen Server als Vorlage zu speichern.",
   "GUILD_SETTINGS.TEMPLATES.NAME_LABEL": "Vorlagenname",
@@ -731,7 +719,6 @@
   "GUILD_SETTINGS.TEMPLATES.COPY_ID": "ID kopieren",
   "GUILD_SETTINGS.TEMPLATES.SAVE_ANOTHER": "Weitere Vorlage speichern",
   "GUILD_SETTINGS.TEMPLATES.SAVE_ERROR_TOAST": "Vorlage konnte nicht gespeichert werden",
-
   "CREATE_GUILD.USE_A_TEMPLATE": "Vorlage verwenden",
   "CREATE_GUILD.TEMPLATE.BACK": "Zurück",
   "CREATE_GUILD.TEMPLATE.ID_LABEL": "Vorlagen-ID",

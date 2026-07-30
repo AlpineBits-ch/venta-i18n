@@ -35,7 +35,6 @@
   "LOGIN.TERMS_OF_SERVICE": "Terms of Service",
   "LOGIN.AND": "and",
   "LOGIN.PRIVACY_POLICY": "Privacy Policy",
-
   "LOGIN.MFA.TITLE": "Two-Factor Authentication",
   "LOGIN.MFA.DESCRIPTION": "Enter the 6-digit code from your authenticator app to continue.",
   "LOGIN.MFA.RECOVERY_DESCRIPTION": "Enter one of your recovery codes to continue.",
@@ -45,7 +44,6 @@
   "LOGIN.MFA.USE_RECOVERY_CODE": "Use a recovery code instead",
   "LOGIN.MFA.USE_AUTHENTICATOR_CODE": "Use authenticator code instead",
   "LOGIN.MFA.VERIFY": "Verify",
-
   "LOGIN.PASSWORD_RESET.TITLE": "Reset Password",
   "LOGIN.PASSWORD_RESET.REQUEST_DESCRIPTION": "Enter your email address and we'll send you a code to reset your password.",
   "LOGIN.PASSWORD_RESET.EMAIL_LABEL": "Email",
@@ -63,7 +61,27 @@
   "LOGIN.PASSWORD_RESET.RESEND_CODE": "Resend Code",
   "LOGIN.PASSWORD_RESET.RESEND_IN": "Resend in {{ seconds }}s",
   "LOGIN.PASSWORD_RESET.SUBMIT": "Reset Password",
-
+  "LOGIN.LOGIN.USERNAME": "Username",
+  "LOGIN.OR": "or",
+  "LOGIN.SERVER.LABEL": "Server",
+  "LOGIN.SERVER.CHANGE": "Change",
+  "LOGIN.SERVER.UNREACHABLE": "Could not reach this server.",
+  "LOGIN.SERVER.UNREACHABLE_NAMED": "Could not reach {{server}}",
+  "LOGIN.SERVER.LOGIN_DISABLED": "Login is not enabled on this server.",
+  "LOGIN.SERVER.REGISTER_DISABLED": "Registration is not enabled on this server.",
+  "LOGIN.QR.CTA": "Sign in with a QR code",
+  "LOGIN.QR.TITLE": "Scan to sign in",
+  "LOGIN.QR.SUBTITLE": "Open Venta on your phone and scan this code. You'll stay signed in on both devices.",
+  "LOGIN.QR.ARIA": "QR code for signing in from your phone",
+  "LOGIN.QR.WAITING": "Waiting for a scan",
+  "LOGIN.QR.EXPIRES_IN": "Expires in",
+  "LOGIN.QR.CONFIRM_ON_PHONE": "Confirm on your phone",
+  "LOGIN.QR.SIGNING_IN": "Signing you in…",
+  "LOGIN.QR.DENIED": "That sign-in was declined on your phone. Generate a new code to try again.",
+  "LOGIN.QR.EXPIRED": "This code has expired. Generate a new one to keep going.",
+  "LOGIN.QR.ERROR": "Something went wrong reaching the server. Generate a new code to try again.",
+  "LOGIN.QR.NEW_CODE": "Generate a new code",
+  "LOGIN.QR.USE_PASSWORD": "Use your password instead",
   "HOME.TITLE": "Friends",
   "HOME.ADD_FRIEND": "+ Add Friend",
   "HOME.CANCEL": "Cancel",
@@ -98,7 +116,6 @@
   "HOME.UNBLOCK": "Unblock",
   "HOME.BLOCK": "Block",
   "HOME.MESSAGE": "Message",
-
   "SIDEBAR.FRIENDS": "Friends",
   "SIDEBAR.ONLINE": "Online",
   "SIDEBAR.DIRECT_MESSAGES": "Direct Messages",
@@ -107,13 +124,10 @@
   "SIDEBAR.NOBODY_ONLINE": "Nobody's online right now",
   "SIDEBAR.OFFLINE_COUNT": "Offline - {{ count }}",
   "SIDEBAR.OFFLINE": "Offline",
-
   "ACTIVITY.ONLINE_COUNT": "Online - {{ count }}",
-
   "CONNECTION.CONNECTED": "Connected",
   "CONNECTION.CONNECTING": "Connecting…",
   "CONNECTION.DISCONNECTED": "Disconnected",
-
   "VOICE_BAR.FAILED": "Connection failed",
   "VOICE_BAR.LOST": "Connection lost",
   "VOICE_BAR.AUDIO_INTERRUPTED": "audio may be interrupted",
@@ -121,7 +135,6 @@
   "VOICE_BAR.VOICE_CONNECTED": "Voice Connected",
   "VOICE_BAR.DISCONNECT": "Disconnect from voice",
   "VOICE_BAR.CONNECTION_FAILED_WARN": "{{ state }} - audio may be interrupted",
-
   "PROX_CHAT.CONNECT": "Connect to the Isle prox chat",
   "PROX_CHAT.CONNECT_ACTION": "Connect",
   "PROX_CHAT.CONNECTING": "Connecting…",
@@ -141,12 +154,10 @@
   "PROX_CHAT.MUTE": "Mute microphone",
   "PROX_CHAT.UNMUTE": "Unmute microphone",
   "PROX_CHAT.PEERS_NEARBY": "{{ count }} nearby",
-
   "QUICK_SETTINGS.MUTE": "Mute",
   "QUICK_SETTINGS.UNMUTE": "Unmute",
   "QUICK_SETTINGS.DEAFEN": "Deafen",
   "QUICK_SETTINGS.UNDEAFEN": "Undeafen",
-
   "NEW_CONVERSATION.TITLE": "New Message",
   "NEW_CONVERSATION.SEARCH_PLACEHOLDER": "Search friends...",
   "NEW_CONVERSATION.NO_FRIENDS": "No friends found",
@@ -156,7 +167,6 @@
   "NEW_CONVERSATION.E2E_HINT": "Requires MLS device registration",
   "NEW_CONVERSATION.CANCEL": "Cancel",
   "NEW_CONVERSATION.OPEN": "Open",
-
   "SETTINGS.TITLE": "Settings",
   "SETTINGS.NAV.MY_ACCOUNT": "My Account",
   "SETTINGS.NAV.APP_SETTINGS": "App Settings",
@@ -167,7 +177,6 @@
   "SETTINGS.NAV.APPEARANCE": "Appearance",
   "SETTINGS.NAV.OTHER": "Other",
   "SETTINGS.LOG_OUT": "Log Out",
-
   "SETTINGS.PROFILE.SECTION_AVATAR": "Avatar",
   "SETTINGS.PROFILE.CHANGE_AVATAR": "Change Avatar",
   "SETTINGS.PROFILE.REMOVE_AVATAR": "Remove",
@@ -186,13 +195,11 @@
   "SETTINGS.PROFILE.SAVE_CHANGES": "Save Changes",
   "SETTINGS.PROFILE.RESET": "Reset",
   "SETTINGS.PROFILE.CROP_AVATAR": "Crop Avatar",
-
   "SETTINGS.PRIVACY.SECTION_FRIEND_REQUESTS": "Friend Requests",
   "SETTINGS.PRIVACY.WHO_CAN_SEND": "Who can send you a friend request?",
   "SETTINGS.PRIVACY.SECTION_DMS": "Direct Messages",
   "SETTINGS.PRIVACY.SECTION_PRESENCE": "Presence",
   "SETTINGS.PRIVACY.COMING_SOON": "These settings are not yet active. Functionality coming soon.",
-
   "SETTINGS.SECURITY.SECTION_2FA": "Two-Factor Authentication",
   "SETTINGS.SECURITY.DESC_IDLE": "Add an extra layer of security to your account by requiring a code from your authenticator app when you sign in.",
   "SETTINGS.SECURITY.ENABLE": "Enable 2FA",
@@ -218,7 +225,23 @@
   "SETTINGS.SECURITY.REGENERATE_TITLE": "Generate New Recovery Codes",
   "SETTINGS.SECURITY.REGENERATE_WARNING": "Your existing recovery codes will stop working immediately. Enter your password to confirm.",
   "SETTINGS.SECURITY.REGENERATE_CONFIRM": "Generate New Codes",
-
+  "SETTINGS.DEVICES.SECTION": "Logged-In Devices",
+  "SETTINGS.DEVICES.DESC": "Every device signed in to your account. Sign out any you don't recognize.",
+  "SETTINGS.DEVICES.LOADING": "Loading your devices…",
+  "SETTINGS.DEVICES.LOAD_FAILED": "Could not load your devices",
+  "SETTINGS.DEVICES.RETRY": "Try again",
+  "SETTINGS.DEVICES.EMPTY": "No other devices are signed in.",
+  "SETTINGS.DEVICES.THIS_DEVICE": "This device",
+  "SETTINGS.DEVICES.LAST_ACTIVE": "Last active",
+  "SETTINGS.DEVICES.CURRENT_HINT": "Use Log Out to end the session on this device.",
+  "SETTINGS.DEVICES.REVOKE": "Sign out this device",
+  "SETTINGS.DEVICES.REVOKE_TITLE": "Sign Out Device",
+  "SETTINGS.DEVICES.REVOKE_DESC": "{{device}} will be signed out and will need your password to get back in.",
+  "SETTINGS.DEVICES.REVOKE_DELAY_NOTE": "The device stops refreshing right away, but a token it already holds can keep working for up to an hour.",
+  "SETTINGS.DEVICES.REVOKE_CONFIRM": "Sign Out Device",
+  "SETTINGS.DEVICES.REVOKED": "{{device}} signed out",
+  "SETTINGS.DEVICES.REVOKE_FAILED": "Could not sign out that device",
+  "SETTINGS.DEVICES.CANCEL": "Cancel",
   "SETTINGS.NOTIFICATIONS.SECTION_GENERAL": "General",
   "SETTINGS.NOTIFICATIONS.ENABLE": "Enable Notifications",
   "SETTINGS.NOTIFICATIONS.ENABLE_DESC": "Receive alerts for messages and activity.",
@@ -238,7 +261,6 @@
   "SETTINGS.NOTIFICATIONS.PREVIEW": "Preview",
   "SETTINGS.NOTIFICATIONS.SOUND_DEFAULT": "Default",
   "SETTINGS.NOTIFICATIONS.UPLOAD_WAV": "Upload .wav",
-
   "SETTINGS.VOICE.SECTION_MIC": "Microphone",
   "SETTINGS.VOICE.INPUT_DEVICE": "Input Device",
   "SETTINGS.VOICE.MIC_PLACEHOLDER": "Select microphone",
@@ -247,7 +269,6 @@
   "SETTINGS.VOICE.INPUT_LEVEL_IDLE": "Start the test to check your microphone",
   "SETTINGS.VOICE.STOP": "Stop",
   "SETTINGS.VOICE.TEST_MIC": "Test Mic",
-
   "SETTINGS.OTHER.SECTION_LANGUAGE": "Language & Region",
   "SETTINGS.OTHER.LANGUAGE": "Language",
   "SETTINGS.OTHER.SECTION_SYSTEM": "System",
@@ -261,7 +282,6 @@
   "SETTINGS.OTHER.CHECKING": "Checking…",
   "SETTINGS.OTHER.UP_TO_DATE": "You're up to date",
   "SETTINGS.OTHER.CHECK_FAILED": "Check failed",
-
   "LOGOUT.TITLE": "Log Out",
   "LOGOUT.SUBTITLE": "Do you want to export your encryption keys before logging out? This lets you restore your encrypted messages on another device.",
   "LOGOUT.CANCEL": "Cancel",
@@ -280,7 +300,6 @@
   "LOGOUT.ANYWAY": "Log Out Anyway",
   "LOGOUT.PROCESSING": "Logging out…",
   "LOGOUT.PROCESSING_SUBTITLE": "Clearing local data. Just a moment.",
-
   "GUILD.NO_CHANNELS": "No channels yet",
   "GUILD.WIKI": "Wiki",
   "GUILD.INVITE_PEOPLE": "Invite People",
@@ -307,7 +326,6 @@
   "GUILD.CATEGORY_NAME": "Category Name",
   "GUILD.CATEGORY_NAME_PLACEHOLDER": "e.g. GENERAL",
   "GUILD.CREATE_CATEGORY_SUBMIT": "Create Category",
-
   "CREATE_GUILD.TITLE": "Create a Server",
   "CREATE_GUILD.SERVER_NAME": "Server Name",
   "CREATE_GUILD.DESCRIPTION": "Description",
@@ -318,7 +336,6 @@
   "CREATE_GUILD.CREATE": "Create Server",
   "CREATE_GUILD.IMPORT_FROM_DISCORD": "Import from Discord",
   "CREATE_GUILD.IMPORT_ERROR_TOAST": "Failed to start Discord import",
-
   "DISCORD_IMPORT.TITLE": "Importing from Discord",
   "DISCORD_IMPORT.STATUS_PENDING": "Starting import…",
   "DISCORD_IMPORT.STATUS_FETCHING": "Fetching structure from Discord…",
@@ -330,14 +347,15 @@
   "DISCORD_IMPORT.POLL_ERROR": "Failed to check import status",
   "DISCORD_IMPORT.LINK_ERROR_TOAST": "Discord import failed: {{ error }}",
   "DISCORD_IMPORT.GUILD_NOT_FOUND": "Import finished, but the new server could not be located. Check your server list.",
-
   "GUILD_SETTINGS.SERVER": "Server",
+  "GUILD_SETTINGS.NO_ACCESS_TITLE": "You cannot manage this server",
+  "GUILD_SETTINGS.NO_ACCESS_DESC": "Server settings are available to the owner and to members with the Manage Server permission. Ask a server admin if you need access.",
+  "GUILD_SETTINGS.CLOSE": "Close",
   "GUILD_SETTINGS.NAV.OVERVIEW": "Overview",
   "GUILD_SETTINGS.NAV.MEMBERS": "Members",
   "GUILD_SETTINGS.NAV.ROLES": "Roles",
   "GUILD_SETTINGS.NAV.INVITES": "Invites",
   "GUILD_SETTINGS.NAV.DISCORD_SYNC": "Discord Sync",
-
   "GUILD_SETTINGS.OVERVIEW.SERVER_ICON": "Server Icon",
   "GUILD_SETTINGS.OVERVIEW.UPLOAD_IMAGE": "Upload Image",
   "GUILD_SETTINGS.OVERVIEW.REMOVE_ICON": "Remove",
@@ -357,7 +375,6 @@
   "GUILD_SETTINGS.OVERVIEW.VERIFY_MEDIUM_HINT": "Members must have a verified email and an account at least 5 minutes old.",
   "GUILD_SETTINGS.OVERVIEW.VERIFY_HIGH_HINT": "Members must have a verified email, an account at least 5 minutes old, and a verified phone number.",
   "GUILD_SETTINGS.OVERVIEW.SAVE_ERROR": "Failed to save server settings",
-
   "GUILD_SETTINGS.INVITES.PERMANENT": "Permanent Invite",
   "GUILD_SETTINGS.INVITES.ONE_TIME": "One-time Invite",
   "GUILD_SETTINGS.INVITES.HINT": "Permanent invites never expire. One-time invites can only be used once.",
@@ -369,7 +386,6 @@
   "GUILD_SETTINGS.INVITES.CREATED": "Created {{ date }}",
   "GUILD_SETTINGS.INVITES.COPY_LINK": "Copy link",
   "GUILD_SETTINGS.INVITES.REVOKE": "Revoke",
-
   "GUILD_SETTINGS.DISCORD_SYNC.TITLE": "Discord Sync",
   "GUILD_SETTINGS.DISCORD_SYNC.HINT": "Structure changes made on the linked Discord server (categories, channels, roles) are applied here automatically.",
   "GUILD_SETTINGS.DISCORD_SYNC.LOADING": "Loading…",
@@ -388,7 +404,6 @@
   "GUILD_SETTINGS.DISCORD_SYNC.UPDATE_ERROR": "Failed to update sync status",
   "GUILD_SETTINGS.DISCORD_SYNC.UNLINK_SUCCESS": "Discord server unlinked",
   "GUILD_SETTINGS.DISCORD_SYNC.UNLINK_ERROR": "Failed to unlink Discord server",
-
   "GUILD_SETTINGS.MEMBERS.SEARCH_PLACEHOLDER": "Search members…",
   "GUILD_SETTINGS.MEMBERS.COUNT_SINGLE": "{{ count }} member",
   "GUILD_SETTINGS.MEMBERS.COUNT_PLURAL": "{{ count }} members",
@@ -402,7 +417,6 @@
   "GUILD_SETTINGS.MEMBERS.KICK_TITLE": "Kick Member",
   "GUILD_SETTINGS.MEMBERS.KICK_CONFIRM": "Are you sure you want to kick {{ name }}? They will be able to rejoin with a new invite.",
   "GUILD_SETTINGS.MEMBERS.KICK_BTN": "Kick",
-
   "GUILD_SETTINGS.ROLES.NEW_ROLE": "New Role",
   "GUILD_SETTINGS.ROLES.SELECT_HINT": "Select a role to edit",
   "GUILD_SETTINGS.ROLES.TAB_SETTINGS": "Settings",
@@ -429,7 +443,6 @@
   "GUILD_SETTINGS.ROLES.DELETE_BTN": "Delete",
   "GUILD_SETTINGS.ROLES.CANCEL": "Cancel",
   "GUILD_SETTINGS.ROLES.ADD_MEMBER_TITLE": "Add Member to Role",
-
   "GUILD_SETTINGS.MODERATION.LOADING": "Loading…",
   "GUILD_SETTINGS.MODERATION.ENABLE_TITLE": "Enable Auto-Moderation",
   "GUILD_SETTINGS.MODERATION.ENABLE_DESC": "Automatically filter messages that contain blocked words and apply message rate limits.",
@@ -448,7 +461,6 @@
   "GUILD_SETTINGS.MODERATION.RATE_LIMIT_INCOMPLETE": "Enter both a message count and an interval for the rate limit.",
   "GUILD_SETTINGS.MODERATION.SAVE_SUCCESS": "Moderation settings saved",
   "GUILD_SETTINGS.MODERATION.SAVE_ERROR": "Failed to save moderation settings",
-
   "GUILD_SETTINGS.ONBOARDING.LOADING": "Loading…",
   "GUILD_SETTINGS.ONBOARDING.ENABLE_TITLE": "Enable Onboarding",
   "GUILD_SETTINGS.ONBOARDING.ENABLE_DESC": "New members must read and accept the rules below before they can chat.",
@@ -463,14 +475,12 @@
   "GUILD_SETTINGS.ONBOARDING.LOAD_ERROR": "Failed to load onboarding settings",
   "GUILD_SETTINGS.ONBOARDING.SAVE_SUCCESS": "Onboarding settings saved",
   "GUILD_SETTINGS.ONBOARDING.SAVE_ERROR": "Failed to save onboarding settings",
-
   "ONBOARDING_GATE.RULES_HEADING": "Read and accept the rules",
   "ONBOARDING_GATE.CHANNELS_HINT": "Check out these channels to get started:",
   "ONBOARDING_GATE.ACCEPT": "Accept",
   "ONBOARDING_GATE.ACCEPT_ERROR": "Failed to accept the rules. Please try again.",
   "ONBOARDING_GATE.LEAVE_SERVER": "Leave Server",
   "CHANNEL.FOLLOW": "Follow Channel",
-
   "FOLLOW_CHANNEL.TITLE": "Follow #{{ channel }}",
   "FOLLOW_CHANNEL.EXPLANATION": "Posts published in this channel will be copied into the channel you choose below. Mentions are stripped, and crossposted messages arrive as ordinary messages with no special badge.",
   "FOLLOW_CHANNEL.SELECT_SERVER_LABEL": "Server",
@@ -483,15 +493,12 @@
   "FOLLOW_CHANNEL.NEED_MANAGE_CHANNEL": "You need the Manage Channel permission in the destination server",
   "FOLLOW_CHANNEL.FOLLOW_ERROR_TOAST": "Failed to follow channel",
   "FOLLOW_CHANNEL.SUCCESS_TOAST": "Now following this channel",
-
   "CHANNEL_SETTINGS.NAV.OVERVIEW": "Overview",
   "CHANNEL_SETTINGS.NAV.PERMISSIONS": "Permissions",
   "CHANNEL_SETTINGS.OVERVIEW.SAVE": "Save Changes",
   "CHANNEL_SETTINGS.OVERVIEW.RESET": "Reset",
-
   "CATEGORY_SETTINGS.NAV.OVERVIEW": "Overview",
   "CATEGORY_SETTINGS.NAV.PERMISSIONS": "Permissions",
-
   "CONVERSATION.ONLINE": "Online",
   "CONVERSATION.OFFLINE": "Offline",
   "CONVERSATION.E2E_TITLE": "End-to-end encrypted",
@@ -513,18 +520,15 @@
   "CONVERSATION.LOADING_OLDER": "Loading older messages…",
   "CONVERSATION.START_OF_HISTORY": "This is the beginning of your direct message history with",
   "CONVERSATION.NEW_MESSAGES": "New messages",
-
   "COMPOSER.DROP_FILES": "Drop files here",
   "COMPOSER.REPLYING_TO": "Replying to",
   "COMPOSER.CANCEL_REPLY": "cancel",
   "COMPOSER.AUTOMOD_BLOCKED_WORD": "This message contains a blocked word and wasn't sent.",
   "COMPOSER.AUTOMOD_RATE_LIMITED": "You're sending messages too quickly. Please slow down.",
-
   "CALL.INCOMING": "Incoming Voice Call",
   "CALL.DECLINE": "Decline",
   "CALL.ACCEPT": "Accept",
   "CALL.CALLING": "Calling",
-
   "KEY_SETUP.SECURE_TITLE": "Secure Your Account",
   "KEY_SETUP.SECURE_SUBTITLE": "Venta uses end-to-end encryption. Enter your password to generate your personal encryption keys - this only happens once.",
   "KEY_SETUP.PASSWORD": "Password",
@@ -534,13 +538,11 @@
   "KEY_SETUP.PROCESSING_SUBTITLE": "Deriving keys and encrypting. Just a moment.",
   "KEY_SETUP.DONE_TITLE": "Vault Ready",
   "KEY_SETUP.DONE_SUBTITLE": "Your encryption keys are set up. All your data is end-to-end encrypted.",
-
   "ENTROPY.TITLE": "Generating Entropy",
   "ENTROPY.SUBTITLE": "Move your mouse freely to generate randomness for your encryption keys",
   "ENTROPY.COVERAGE": "Coverage",
   "ENTROPY.AUTO_COMPLETE": "Auto-completing in {{ seconds }}s",
   "ENTROPY.SKIP": "Skip",
-
   "DEVICE_REG.TITLE": "Register This Device",
   "DEVICE_REG.SUBTITLE": "Give this device a name so you can identify it in your account settings. Your encryption keys will be generated and stored securely on this device.",
   "DEVICE_REG.DEVICE_NAME": "Device Name",
@@ -550,7 +552,6 @@
   "DEVICE_REG.PROCESSING_SUBTITLE": "Generating your encryption keys. Just a moment.",
   "DEVICE_REG.DONE_TITLE": "Device Registered",
   "DEVICE_REG.DONE_SUBTITLE": "Your device is ready. End-to-end encryption is active.",
-
   "UPDATE.TITLE": "Update Available",
   "UPDATE.WHATS_NEW": "What's new",
   "UPDATE.DOWNLOADING": "Downloading update…",
@@ -558,7 +559,6 @@
   "UPDATE.UPDATE_NOW": "Update Now",
   "UPDATE.DOWNLOADING_BTN": "Downloading…",
   "UPDATE.NEW_BADGE": "New",
-
   "WIKI.HOME": "Home",
   "WIKI.PINNED": "Pinned",
   "WIKI.CATEGORIES": "Categories",
@@ -574,19 +574,16 @@
   "WIKI.CATEGORY": "Category",
   "WIKI.PARENT": "Parent",
   "WIKI.PINNED_LABEL": "Pinned",
-
   "SCREEN_PICKER.TITLE": "Share Your Screen",
   "SCREEN_PICKER.SCREENS": "Screens",
   "SCREEN_PICKER.WINDOWS": "Windows",
   "SCREEN_PICKER.CANCEL": "Cancel",
   "SCREEN_PICKER.SHARE": "Share",
-
   "PROFILE.MEMBER_SINCE": "Member since",
   "PROFILE.FRIENDS_SINCE": "Friends since",
   "PROFILE.ADD_FRIEND": "Add Friend",
   "PROFILE.MESSAGE": "Message",
   "PROFILE.BLOCK": "Block",
-
   "COMMON.SAVE": "Save",
   "COMMON.CANCEL": "Cancel",
   "COMMON.DELETE": "Delete",
@@ -598,17 +595,14 @@
   "COMMON.ERROR": "Error",
   "COMMON.SUCCESS": "Success",
   "COMMON.RETRY": "Retry",
-
   "CONVERSATION_LIST.NO_MESSAGES_YET": "No messages yet",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Delete conversation",
   "CONVERSATION_LIST.LOAD_MORE": "Load more",
-
   "CONVERSATION.INFO_ACTIONS": "Actions",
   "CONVERSATION.INFO_VOICE_CALL": "Voice call",
   "CONVERSATION.INFO_VIDEO_CALL": "Video call",
   "CONVERSATION.INFO_MEMBERS_COUNT": "Members - {{ count }}",
   "CONVERSATION.SEARCH_FROM": "from {{ name }} · {{ date }}",
-
   "MESSAGE.REPLY_ATTACHMENT": "(attachment)",
   "MESSAGE.REPLY_ORIGINAL": "Original message",
   "MESSAGE.FAILED_TO_SEND": "Failed to send",
@@ -648,14 +642,11 @@
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.7": "%USER% disappeared",
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.8": "%USER% said goodbye",
   "MESSAGE.SYSTEM.GUILD_MEMBER_LEAVE.9": "%USER% is no longer with us",
-
   "GIF.SEARCH_PLACEHOLDER": "Search GIFs...",
   "GIF.NO_RESULTS": "No results",
-
   "SUGGESTION.MENTION_HEADER": "Mention a member",
   "SUGGESTION.COMMANDS_HEADER": "Commands",
   "SUGGESTION.EMOJI_HEADER": "Emoji",
-
   "CALL.PANEL_TITLE": "Voice Call",
   "CALL.CONNECTION_FAILED_MSG": "WebRTC connection failed - you may not be able to hear others",
   "CALL.CONNECTION_LOST_MSG": "Connection lost - attempting to reconnect",
@@ -672,7 +663,6 @@
   "CALL.TOGGLE_SCREEN_SHARE": "Toggle screen share",
   "CALL.END_CALL": "End call",
   "CALL.SCREEN_SHARE_LABEL": "{{ name }}'s screen",
-
   "INVITE.INVALID": "Invalid or expired invite",
   "INVITE.UNKNOWN_SERVER": "Unknown Server",
   "INVITE.EXPIRED": "Invite expired",
@@ -684,7 +674,6 @@
   "INVITE.VERIFY_MEDIUM": "This server requires a verified email and an account at least 5 minutes old to join.",
   "INVITE.VERIFY_HIGH": "This server requires a verified email, an account at least 5 minutes old, and a verified phone number to join.",
   "INVITE.VERIFY_GENERIC": "This server has membership requirements you don't currently meet.",
-
   "EVENTS.TITLE": "Events",
   "EVENTS.EMPTY": "No upcoming events",
   "EVENTS.LOAD_ERROR": "Couldn't load events",
@@ -714,7 +703,6 @@
   "EVENTS.CANCEL_BUTTON": "Cancel",
   "EVENTS.SAVE": "Save",
   "EVENTS.SAVE_ERROR": "Failed to save event",
-
   "GUILD_SETTINGS.TEMPLATES.INTRO": "Save this server's structure — categories, channels, and role permissions — as a reusable template. Templates don't include channel permission overwrites, members, or messages.",
   "GUILD_SETTINGS.TEMPLATES.NO_PERMISSION": "You don't have permission to save this server as a template.",
   "GUILD_SETTINGS.TEMPLATES.NAME_LABEL": "Template Name",
@@ -734,7 +722,6 @@
   "GUILD_SETTINGS.TEMPLATES.COPY_ID": "Copy ID",
   "GUILD_SETTINGS.TEMPLATES.SAVE_ANOTHER": "Save Another Template",
   "GUILD_SETTINGS.TEMPLATES.SAVE_ERROR_TOAST": "Failed to save template",
-
   "CREATE_GUILD.USE_A_TEMPLATE": "Use a Template",
   "CREATE_GUILD.TEMPLATE.BACK": "Back",
   "CREATE_GUILD.TEMPLATE.ID_LABEL": "Template ID",
