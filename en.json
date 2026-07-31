@@ -1187,5 +1187,10 @@
   "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_ACCESS": "Request access",
   "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_SENT": "Request sent. A member has to approve it before you can read this channel.",
   "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS": "This channel is encrypted and your device is not in it yet.",
-  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Your identity fingerprint"
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Your identity fingerprint",
+  "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS_DESC": "A member has to let your device in before you can read anything here. Ask, then tell them the fingerprint below so they can check it is really you.",
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT_HINT": "Read this out to whoever is approving. It does not change, so it should match what they see.",
+  "CHANNEL_SETTINGS.ENCRYPTION.WITHDRAW_REQUEST": "Withdraw request",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_FAILED": "Could not send the request. Nothing was changed.",
+  "CHANNEL_SETTINGS.ENCRYPTION.WITHDRAW_FAILED": "Could not withdraw the request. Nothing was changed."
 }

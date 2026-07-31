@@ -1184,5 +1184,10 @@
   "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_ACCESS": "Zugriff anfragen",
   "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_SENT": "Anfrage gesendet. Ein Mitglied muss zustimmen, bevor du diesen Kanal lesen kannst.",
   "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS": "Dieser Kanal ist verschlüsselt und dein Gerät gehört noch nicht dazu.",
-  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Dein Identitäts-Fingerabdruck"
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Dein Identitäts-Fingerabdruck",
+  "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS_DESC": "Ein Mitglied muss dein Gerät hereinlassen, bevor du hier etwas lesen kannst. Frag nach und nenne dabei den Fingerabdruck unten, damit sie prüfen können, dass du es wirklich bist.",
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT_HINT": "Lies ihn der zustimmenden Person vor. Er ändert sich nicht und sollte mit dem übereinstimmen, was sie sieht.",
+  "CHANNEL_SETTINGS.ENCRYPTION.WITHDRAW_REQUEST": "Anfrage zurückziehen",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_FAILED": "Anfrage konnte nicht gesendet werden. Es wurde nichts geändert.",
+  "CHANNEL_SETTINGS.ENCRYPTION.WITHDRAW_FAILED": "Anfrage konnte nicht zurückgezogen werden. Es wurde nichts geändert."
 }

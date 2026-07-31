@@ -1184,5 +1184,10 @@
   "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_ACCESS": "Demander l'accès",
   "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_SENT": "Demande envoyée. Un membre doit l'approuver avant que vous puissiez lire ce salon.",
   "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS": "Ce salon est chiffré et votre appareil n'en fait pas encore partie.",
-  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Votre empreinte d'identité"
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Votre empreinte d'identité",
+  "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS_DESC": "Un membre doit admettre votre appareil avant que vous puissiez lire quoi que ce soit ici. Demandez-le, puis communiquez-lui l'empreinte ci-dessous pour qu'il vérifie que c'est bien vous.",
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT_HINT": "Lisez-la à la personne qui approuve. Elle ne change pas et doit correspondre à ce qu'elle voit.",
+  "CHANNEL_SETTINGS.ENCRYPTION.WITHDRAW_REQUEST": "Retirer la demande",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_FAILED": "Impossible d'envoyer la demande. Rien n'a été modifié.",
+  "CHANNEL_SETTINGS.ENCRYPTION.WITHDRAW_FAILED": "Impossible de retirer la demande. Rien n'a été modifié."
 }
