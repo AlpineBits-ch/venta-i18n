@@ -1170,5 +1170,19 @@
   "CHANNEL_SETTINGS.ENCRYPTION.FORBIDDEN": "Du benötigst „Kanal verwalten“, um die Verschlüsselung hier zu ändern.",
   "CHANNEL_SETTINGS.ENCRYPTION.ENABLE_FAILED": "Verschlüsselung konnte nicht aktiviert werden. Es wurde nichts geändert.",
   "CHANNEL_SETTINGS.ENCRYPTION.DISABLE_FAILED": "Verschlüsselung konnte nicht deaktiviert werden. Es wurde nichts geändert.",
-  "CHANNEL_SETTINGS.ENCRYPTION.LOAD_FAILED": "Der Verschlüsselungsstatus konnte nicht geladen werden."
+  "CHANNEL_SETTINGS.ENCRYPTION.LOAD_FAILED": "Der Verschlüsselungsstatus konnte nicht geladen werden.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUESTS_TITLE": "Zugriffsanfragen",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUESTS_DESC": "Diese Personen möchten diesen Kanal lesen. Prüfe den Fingerabdruck direkt mit ihnen, bevor du zustimmst — nur so lässt sich sicher sagen, dass der Schlüssel wirklich zu ihnen gehört.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_APPROVALS": "{{approvals}} von {{required}} Zustimmungen",
+  "CHANNEL_SETTINGS.ENCRYPTION.FINGERPRINT": "Identitäts-Fingerabdruck",
+  "CHANNEL_SETTINGS.ENCRYPTION.FINGERPRINT_HINT": "Lass ihn dir vorlesen. Er bleibt auf ihrem Gerät gleich und sollte daher jedes Mal übereinstimmen.",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVE": "Zustimmen",
+  "CHANNEL_SETTINGS.ENCRYPTION.DENY": "Ablehnen",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVED_BY_YOU": "Du hast zugestimmt — eine weitere fehlt",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVE_FAILED": "Zustimmung fehlgeschlagen. Es wurde nichts geändert.",
+  "CHANNEL_SETTINGS.ENCRYPTION.DENY_FAILED": "Ablehnung fehlgeschlagen. Es wurde nichts geändert.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_ACCESS": "Zugriff anfragen",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_SENT": "Anfrage gesendet. Ein Mitglied muss zustimmen, bevor du diesen Kanal lesen kannst.",
+  "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS": "Dieser Kanal ist verschlüsselt und dein Gerät gehört noch nicht dazu.",
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Dein Identitäts-Fingerabdruck"
 }

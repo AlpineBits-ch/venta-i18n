@@ -1170,5 +1170,19 @@
   "CHANNEL_SETTINGS.ENCRYPTION.FORBIDDEN": "Vous devez avoir « Gérer le salon » pour modifier le chiffrement ici.",
   "CHANNEL_SETTINGS.ENCRYPTION.ENABLE_FAILED": "Impossible d'activer le chiffrement. Rien n'a été modifié.",
   "CHANNEL_SETTINGS.ENCRYPTION.DISABLE_FAILED": "Impossible de désactiver le chiffrement. Rien n'a été modifié.",
-  "CHANNEL_SETTINGS.ENCRYPTION.LOAD_FAILED": "Impossible de charger l'état du chiffrement."
+  "CHANNEL_SETTINGS.ENCRYPTION.LOAD_FAILED": "Impossible de charger l'état du chiffrement.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUESTS_TITLE": "Demandes d'accès",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUESTS_DESC": "Ces personnes souhaitent lire ce salon. Vérifiez l'empreinte directement avec elles avant d'approuver — c'est le seul moyen de garantir que la clé leur appartient.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_APPROVALS": "{{approvals}} approbation(s) sur {{required}}",
+  "CHANNEL_SETTINGS.ENCRYPTION.FINGERPRINT": "Empreinte d'identité",
+  "CHANNEL_SETTINGS.ENCRYPTION.FINGERPRINT_HINT": "Demandez-leur de la lire à voix haute. Elle ne change pas sur leur appareil et doit donc correspondre à chaque fois.",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVE": "Approuver",
+  "CHANNEL_SETTINGS.ENCRYPTION.DENY": "Refuser",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVED_BY_YOU": "Vous avez approuvé — il en manque une",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVE_FAILED": "Approbation impossible. Rien n'a été modifié.",
+  "CHANNEL_SETTINGS.ENCRYPTION.DENY_FAILED": "Refus impossible. Rien n'a été modifié.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_ACCESS": "Demander l'accès",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_SENT": "Demande envoyée. Un membre doit l'approuver avant que vous puissiez lire ce salon.",
+  "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS": "Ce salon est chiffré et votre appareil n'en fait pas encore partie.",
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Votre empreinte d'identité"
 }

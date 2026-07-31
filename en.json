@@ -1173,5 +1173,19 @@
   "CHANNEL_SETTINGS.ENCRYPTION.FORBIDDEN": "You need Manage Channel to change encryption here.",
   "CHANNEL_SETTINGS.ENCRYPTION.ENABLE_FAILED": "Could not turn encryption on. Nothing was changed.",
   "CHANNEL_SETTINGS.ENCRYPTION.DISABLE_FAILED": "Could not turn encryption off. Nothing was changed.",
-  "CHANNEL_SETTINGS.ENCRYPTION.LOAD_FAILED": "Could not load the encryption status."
+  "CHANNEL_SETTINGS.ENCRYPTION.LOAD_FAILED": "Could not load the encryption status.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUESTS_TITLE": "Access requests",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUESTS_DESC": "These people want to read this channel. Check the fingerprint with them directly before approving — it is the only way to be sure the key belongs to who it says.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_APPROVALS": "{{approvals}} of {{required}} approvals",
+  "CHANNEL_SETTINGS.ENCRYPTION.FINGERPRINT": "Identity fingerprint",
+  "CHANNEL_SETTINGS.ENCRYPTION.FINGERPRINT_HINT": "Ask them to read this out. It stays the same on their device, so it should match every time.",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVE": "Approve",
+  "CHANNEL_SETTINGS.ENCRYPTION.DENY": "Deny",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVED_BY_YOU": "You approved — waiting for one more",
+  "CHANNEL_SETTINGS.ENCRYPTION.APPROVE_FAILED": "Could not approve. Nothing was changed.",
+  "CHANNEL_SETTINGS.ENCRYPTION.DENY_FAILED": "Could not deny. Nothing was changed.",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_ACCESS": "Request access",
+  "CHANNEL_SETTINGS.ENCRYPTION.REQUEST_SENT": "Request sent. A member has to approve it before you can read this channel.",
+  "CHANNEL_SETTINGS.ENCRYPTION.NO_ACCESS": "This channel is encrypted and your device is not in it yet.",
+  "CHANNEL_SETTINGS.ENCRYPTION.YOUR_FINGERPRINT": "Your identity fingerprint"
 }
