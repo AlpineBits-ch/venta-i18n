@@ -1210,5 +1210,21 @@
   "ACCOUNT_ONBOARDING.SAVING": "Saving...",
   "ACCOUNT_ONBOARDING.SUBMIT_ERROR": "That couldn't be saved. Check your connection and try again.",
   "SETTINGS.ONBOARDING.HEADING": "What you use Venta for",
-  "SETTINGS.ONBOARDING.DESC": "Turning on Venta Chat sets up your encryption keys if you haven't already."
+  "SETTINGS.ONBOARDING.DESC": "Turning on Venta Chat sets up your encryption keys if you haven't already.",
+  "TITLEBAR.BACK": "Back",
+  "TITLEBAR.FORWARD": "Forward",
+  "TITLEBAR.INBOX": "Inbox",
+  "TITLEBAR.INBOX_EMPTY": "You're all caught up",
+  "TITLEBAR.INBOX_EMPTY_HINT": "Mentions from your servers and direct messages show up here.",
+  "TITLEBAR.HELP": "Help",
+  "TITLEBAR.HELP_KEYBINDS": "Keyboard Shortcuts",
+  "TITLEBAR.HELP_ABOUT": "About Venta",
+  "TITLEBAR.DIRECT_MESSAGES": "Direct Messages",
+  "TITLEBAR.DIRECT_MESSAGE": "Direct Message",
+  "TITLEBAR.WIKI": "Wiki",
+  "TITLEBAR.MINIMIZE": "Minimize",
+  "TITLEBAR.MAXIMIZE": "Maximize",
+  "TITLEBAR.RESTORE": "Restore",
+  "TITLEBAR.CLOSE": "Close",
+  "TITLEBAR.ZOOM": "Zoom"
 }

@@ -1207,5 +1207,21 @@
   "ACCOUNT_ONBOARDING.SAVING": "Enregistrement...",
   "ACCOUNT_ONBOARDING.SUBMIT_ERROR": "Impossible d'enregistrer. Vérifiez votre connexion et réessayez.",
   "SETTINGS.ONBOARDING.HEADING": "Ce pour quoi vous utilisez Venta",
-  "SETTINGS.ONBOARDING.DESC": "Activer Venta Chat configure vos clés de chiffrement si ce n'est pas déjà fait."
+  "SETTINGS.ONBOARDING.DESC": "Activer Venta Chat configure vos clés de chiffrement si ce n'est pas déjà fait.",
+  "TITLEBAR.BACK": "Retour",
+  "TITLEBAR.FORWARD": "Suivant",
+  "TITLEBAR.INBOX": "Boîte de réception",
+  "TITLEBAR.INBOX_EMPTY": "Vous êtes à jour",
+  "TITLEBAR.INBOX_EMPTY_HINT": "Les mentions de vos serveurs et les messages privés apparaissent ici.",
+  "TITLEBAR.HELP": "Aide",
+  "TITLEBAR.HELP_KEYBINDS": "Raccourcis clavier",
+  "TITLEBAR.HELP_ABOUT": "À propos de Venta",
+  "TITLEBAR.DIRECT_MESSAGES": "Messages privés",
+  "TITLEBAR.DIRECT_MESSAGE": "Message privé",
+  "TITLEBAR.WIKI": "Wiki",
+  "TITLEBAR.MINIMIZE": "Réduire",
+  "TITLEBAR.MAXIMIZE": "Agrandir",
+  "TITLEBAR.RESTORE": "Restaurer",
+  "TITLEBAR.CLOSE": "Fermer",
+  "TITLEBAR.ZOOM": "Zoom"
 }
