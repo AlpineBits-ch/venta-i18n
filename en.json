@@ -1226,5 +1226,7 @@
   "TITLEBAR.MAXIMIZE": "Maximize",
   "TITLEBAR.RESTORE": "Restore",
   "TITLEBAR.CLOSE": "Close",
-  "TITLEBAR.ZOOM": "Zoom"
+  "TITLEBAR.ZOOM": "Zoom",
+  "ACCOUNTS.SWITCH_TO": "Switch to",
+  "ACCOUNTS.ADD": "Add Account"
 }

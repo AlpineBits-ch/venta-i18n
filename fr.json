@@ -1223,5 +1223,7 @@
   "TITLEBAR.MAXIMIZE": "Agrandir",
   "TITLEBAR.RESTORE": "Restaurer",
   "TITLEBAR.CLOSE": "Fermer",
-  "TITLEBAR.ZOOM": "Zoom"
+  "TITLEBAR.ZOOM": "Zoom",
+  "ACCOUNTS.SWITCH_TO": "Basculer vers",
+  "ACCOUNTS.ADD": "Ajouter un compte"
 }
