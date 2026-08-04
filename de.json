@@ -1393,5 +1393,13 @@
   "GUILD_SETTINGS.PRIVACY.TITLE": "Datenschutz",
   "GUILD_SETTINGS.PRIVACY.ALLOW_DMS": "Direktnachrichten von diesem Server erlauben",
   "GUILD_SETTINGS.PRIVACY.ALLOW_DMS_DESC": "Gilt nur, wenn deine globale Einstellung Servermitglieder zulässt. Freunde können dir immer schreiben.",
-  "GUILD_SETTINGS.PRIVACY.SAVE_ERROR": "Einstellung konnte nicht gespeichert werden"
+  "GUILD_SETTINGS.PRIVACY.SAVE_ERROR": "Einstellung konnte nicht gespeichert werden",
+  "MESSAGING.REFUSED_LOOKUP_UNAVAILABLE": "Das konnten wir gerade nicht prüfen. Bitte versuche es gleich noch einmal.",
+  "MESSAGING.REFUSED_EXPLICIT_CONTENT": "Der Anhang wurde vom Inhaltsfilter dieser Person abgelehnt",
+  "SETTINGS.PRIVACY.EXPORT_STATUS_PARTIAL": "Bereit (unvollständig)",
+  "SETTINGS.PRIVACY.EXPORT_PARTIAL_WARNING": "Einige Daten konnten nicht aufgenommen werden:",
+  "SETTINGS.PRIVACY.EXPORT_EXPIRED_HINT": "Dieser Export wurde gelöscht. Fordere einen neuen an, um deine Daten herunterzuladen.",
+  "SETTINGS.PRIVACY.EXPORT_EXPIRED_ERROR": "Dieser Export ist abgelaufen. Fordere einen neuen an.",
+  "SETTINGS.PRIVACY.EXPORT_FAILED_ERROR": "Dieser Export konnte nicht abgeschlossen werden",
+  "SETTINGS.PRIVACY.EXPORT_RATE_LIMITED_IN": "Du kannst nur einen Export pro Tag anfordern. Versuche es in etwa {{ hours }} Stunden erneut."
 }

@@ -1393,5 +1393,13 @@
   "GUILD_SETTINGS.PRIVACY.TITLE": "Confidentialité",
   "GUILD_SETTINGS.PRIVACY.ALLOW_DMS": "Autoriser les messages privés depuis ce serveur",
   "GUILD_SETTINGS.PRIVACY.ALLOW_DMS_DESC": "Ne s’applique que si votre réglage global autorise les membres du serveur. Vos amis peuvent toujours vous écrire.",
-  "GUILD_SETTINGS.PRIVACY.SAVE_ERROR": "Impossible d’enregistrer ce réglage"
+  "GUILD_SETTINGS.PRIVACY.SAVE_ERROR": "Impossible d’enregistrer ce réglage",
+  "MESSAGING.REFUSED_LOOKUP_UNAVAILABLE": "Nous n'avons pas pu vérifier cela pour le moment. Réessayez dans un instant.",
+  "MESSAGING.REFUSED_EXPLICIT_CONTENT": "Cette pièce jointe a été refusée par le filtre de contenu de cette personne",
+  "SETTINGS.PRIVACY.EXPORT_STATUS_PARTIAL": "Prêt (incomplet)",
+  "SETTINGS.PRIVACY.EXPORT_PARTIAL_WARNING": "Certaines données n'ont pas pu être incluses :",
+  "SETTINGS.PRIVACY.EXPORT_EXPIRED_HINT": "Cet export a été supprimé. Demandez-en un nouveau pour télécharger vos données.",
+  "SETTINGS.PRIVACY.EXPORT_EXPIRED_ERROR": "Cet export a expiré. Demandez-en un nouveau.",
+  "SETTINGS.PRIVACY.EXPORT_FAILED_ERROR": "Cet export n'a pas pu être terminé",
+  "SETTINGS.PRIVACY.EXPORT_RATE_LIMITED_IN": "Vous ne pouvez demander qu'un export par jour. Réessayez dans environ {{ hours }} heures."
 }

@@ -1764,5 +1764,13 @@
   "IDENTITY.SECURITY.DEVICE_IDENTITY_ROTATED": "A device signed in again with a new key",
   "IDENTITY.SECURITY.DEVICE_IDENTITY_ROTATED_DETAIL": "\"{{device}}\" registered again with a new identity key, so it can no longer use the encrypted conversations it was already in and has to be let back into each one. This normally means that device was reinstalled or reset. If you did not just set it up again, review your devices and change your password.",
   "IDENTITY.SECURITY.IDENTITY_KEY_PUBLISHED": "Your account identity key was set",
-  "IDENTITY.SECURITY.IDENTITY_KEY_PUBLISHED_DETAIL": "This account published an identity key for the first time (version {{version}}). Everyone you talk to will remember it as yours from now on. If you did not do this, change your password and check with your other devices before trusting any fingerprint."
+  "IDENTITY.SECURITY.IDENTITY_KEY_PUBLISHED_DETAIL": "This account published an identity key for the first time (version {{version}}). Everyone you talk to will remember it as yours from now on. If you did not do this, change your password and check with your other devices before trusting any fingerprint.",
+  "MESSAGING.REFUSED_LOOKUP_UNAVAILABLE": "We could not check that just now. Please try again in a moment.",
+  "MESSAGING.REFUSED_EXPLICIT_CONTENT": "That attachment was refused by this person's content filter",
+  "SETTINGS.PRIVACY.EXPORT_STATUS_PARTIAL": "Ready (incomplete)",
+  "SETTINGS.PRIVACY.EXPORT_PARTIAL_WARNING": "Some data could not be included:",
+  "SETTINGS.PRIVACY.EXPORT_EXPIRED_HINT": "This export has been deleted. Request a new one to download your data.",
+  "SETTINGS.PRIVACY.EXPORT_EXPIRED_ERROR": "That export has expired. Request a new one.",
+  "SETTINGS.PRIVACY.EXPORT_FAILED_ERROR": "That export could not be completed",
+  "SETTINGS.PRIVACY.EXPORT_RATE_LIMITED_IN": "You can only request one export per day. Try again in about {{ hours }} hours."
 }
