@@ -1772,5 +1772,6 @@
   "SETTINGS.PRIVACY.EXPORT_EXPIRED_HINT": "This export has been deleted. Request a new one to download your data.",
   "SETTINGS.PRIVACY.EXPORT_EXPIRED_ERROR": "That export has expired. Request a new one.",
   "SETTINGS.PRIVACY.EXPORT_FAILED_ERROR": "That export could not be completed",
+  "SETTINGS.PRIVACY.EXPORT_SAVED": "Data export saved",
   "SETTINGS.PRIVACY.EXPORT_RATE_LIMITED_IN": "You can only request one export per day. Try again in about {{ hours }} hours."
 }

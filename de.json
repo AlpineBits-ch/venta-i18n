@@ -1401,5 +1401,6 @@
   "SETTINGS.PRIVACY.EXPORT_EXPIRED_HINT": "Dieser Export wurde gelöscht. Fordere einen neuen an, um deine Daten herunterzuladen.",
   "SETTINGS.PRIVACY.EXPORT_EXPIRED_ERROR": "Dieser Export ist abgelaufen. Fordere einen neuen an.",
   "SETTINGS.PRIVACY.EXPORT_FAILED_ERROR": "Dieser Export konnte nicht abgeschlossen werden",
+  "SETTINGS.PRIVACY.EXPORT_SAVED": "Datenexport gespeichert",
   "SETTINGS.PRIVACY.EXPORT_RATE_LIMITED_IN": "Du kannst nur einen Export pro Tag anfordern. Versuche es in etwa {{ hours }} Stunden erneut."
 }
