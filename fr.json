@@ -1470,5 +1470,21 @@
   "SETTINGS.NAV.SUPPORT": "Support",
   "SETTINGS.SUPPORT.SECTION_HELP": "Obtenir de l'aide",
   "SETTINGS.SUPPORT.SECTION_HELP_DESC": "Le site de support fonctionne que vous soyez connecté ou non, et aucun compte n'est nécessaire.",
-  "SETTINGS.SUPPORT.SITE_LABEL": "Site de support"
+  "SETTINGS.SUPPORT.SITE_LABEL": "Site de support",
+  "SETTINGS.NAV.PLATFORM_STATUS": "État de la plateforme",
+  "STATUS.VIEW_DETAILS": "Détails",
+  "STATUS.DISMISS": "Masquer",
+  "STATUS.UNVERIFIED_TITLE": "Impossible de vérifier l'état de la plateforme",
+  "STATUS.UNVERIFIED_BODY": "Cela vient peut-être simplement de votre connexion. Rien n'indique un problème de notre côté.",
+  "STATUS.ALL_OPERATIONAL": "Tous les systèmes sont opérationnels",
+  "STATUS.UPTIME_90D": "{{value}} de disponibilité sur 90 jours",
+  "STATUS.OPEN_STATUS_PAGE": "Ouvrir la page d'état",
+  "STATUS.REFRESH": "Actualiser",
+  "STATUS.SETTINGS.SECTION": "État de la plateforme",
+  "STATUS.SETTINGS.SECTION_DESC": "L'état actuel des serveurs derrière l'application. Cela fonctionne que vous soyez connecté ou non.",
+  "STATUS.COMPONENT.OPERATIONAL": "Opérationnel",
+  "STATUS.COMPONENT.DEGRADED": "Dégradé",
+  "STATUS.COMPONENT.PARTIAL_OUTAGE": "Panne partielle",
+  "STATUS.COMPONENT.MAJOR_OUTAGE": "Panne majeure",
+  "STATUS.COMPONENT.MAINTENANCE": "En maintenance"
 }

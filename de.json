@@ -1470,5 +1470,21 @@
   "SETTINGS.NAV.SUPPORT": "Support",
   "SETTINGS.SUPPORT.SECTION_HELP": "Hilfe bekommen",
   "SETTINGS.SUPPORT.SECTION_HELP_DESC": "Die Support-Seite funktioniert angemeldet wie abgemeldet, ein Konto brauchst du dafür nicht.",
-  "SETTINGS.SUPPORT.SITE_LABEL": "Support-Seite"
+  "SETTINGS.SUPPORT.SITE_LABEL": "Support-Seite",
+  "SETTINGS.NAV.PLATFORM_STATUS": "Plattformstatus",
+  "STATUS.VIEW_DETAILS": "Details",
+  "STATUS.DISMISS": "Ausblenden",
+  "STATUS.UNVERIFIED_TITLE": "Plattformstatus konnte nicht geprüft werden",
+  "STATUS.UNVERIFIED_BODY": "Das kann auch an deiner Verbindung liegen. Es heißt nicht, dass bei uns etwas nicht stimmt.",
+  "STATUS.ALL_OPERATIONAL": "Alle Systeme laufen",
+  "STATUS.UPTIME_90D": "{{value}} Verfügbarkeit über 90 Tage",
+  "STATUS.OPEN_STATUS_PAGE": "Statusseite öffnen",
+  "STATUS.REFRESH": "Aktualisieren",
+  "STATUS.SETTINGS.SECTION": "Plattformstatus",
+  "STATUS.SETTINGS.SECTION_DESC": "Wie es den Servern hinter der App gerade geht. Das funktioniert angemeldet wie abgemeldet.",
+  "STATUS.COMPONENT.OPERATIONAL": "Läuft",
+  "STATUS.COMPONENT.DEGRADED": "Eingeschränkt",
+  "STATUS.COMPONENT.PARTIAL_OUTAGE": "Teilausfall",
+  "STATUS.COMPONENT.MAJOR_OUTAGE": "Großer Ausfall",
+  "STATUS.COMPONENT.MAINTENANCE": "Wartung"
 }
