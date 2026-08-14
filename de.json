@@ -746,6 +746,8 @@
   "CALL.DISCONNECT": "Trennen",
   "CALL.RETURN_TO_CALL": "Zurück zum Anruf",
   "CALL.MINI_PLAYER": "Miniplayer",
+  "CALL.HIDE_MINI_PLAYER": "Miniplayer ausblenden",
+  "CALL.SHOW_MINI_PLAYER": "Miniplayer einblenden",
   "CALL.PICTURE_IN_PICTURE": "Bild-in-Bild",
   "CALL.HIDE_OTHER_STREAMS": "Andere Streams ausblenden",
   "CALL.SHOW_OTHER_STREAMS": "Andere Streams anzeigen",

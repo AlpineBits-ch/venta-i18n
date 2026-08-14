@@ -805,6 +805,8 @@
   "CALL.DISCONNECT": "Disconnect",
   "CALL.RETURN_TO_CALL": "Back to call",
   "CALL.MINI_PLAYER": "Mini player",
+  "CALL.HIDE_MINI_PLAYER": "Hide mini player",
+  "CALL.SHOW_MINI_PLAYER": "Show mini player",
   "CALL.PICTURE_IN_PICTURE": "Picture in picture",
   "CALL.HIDE_OTHER_STREAMS": "Hide the other streams",
   "CALL.SHOW_OTHER_STREAMS": "Show the other streams",
