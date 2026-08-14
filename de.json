@@ -762,6 +762,7 @@
   "CALL.WATCH_STREAM": "Stream ansehen",
   "CALL.JOIN_AND_WATCH": "Beitreten und ansehen",
   "CALL.VOLUME": "Lautstärke",
+  "CALL.STREAM_VOLUME": "Stream-Lautstärke",
   "CALL.SERVER_DEAFENED": "Serverseitig stumm",
   "CALL.SERVER_DEAFEN": "Serverseitig stummschalten",
   "CALL.REMOVE_SERVER_DEAFEN": "Serverseitige Stummschaltung aufheben",

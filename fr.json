@@ -762,6 +762,7 @@
   "CALL.WATCH_STREAM": "Regarder le flux",
   "CALL.JOIN_AND_WATCH": "Rejoindre et regarder",
   "CALL.VOLUME": "Volume",
+  "CALL.STREAM_VOLUME": "Volume du flux",
   "CALL.SERVER_DEAFENED": "Son coupé par le serveur",
   "CALL.SERVER_DEAFEN": "Couper le son (serveur)",
   "CALL.REMOVE_SERVER_DEAFEN": "Rétablir le son (serveur)",
