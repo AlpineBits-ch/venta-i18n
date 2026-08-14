@@ -804,6 +804,7 @@
   "CALL.FPS": "{{ fps }} fps",
   "CALL.DISCONNECT": "Disconnect",
   "CALL.PICTURE_IN_PICTURE": "Picture in picture",
+  "CALL.POP_OUT": "Pop out",
   "CALL.HIDE_OTHER_STREAMS": "Hide the other streams",
   "CALL.SHOW_OTHER_STREAMS": "Show the other streams",
   "CALL.STOP_WATCHING": "Stop watching",

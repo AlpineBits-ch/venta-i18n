@@ -745,6 +745,7 @@
   "CALL.FPS": "{{ fps }} ips",
   "CALL.DISCONNECT": "Se déconnecter",
   "CALL.PICTURE_IN_PICTURE": "Image dans l'image",
+  "CALL.POP_OUT": "Ouvrir dans une fenêtre",
   "CALL.HIDE_OTHER_STREAMS": "Masquer les autres flux",
   "CALL.SHOW_OTHER_STREAMS": "Afficher les autres flux",
   "CALL.STOP_WATCHING": "Ne plus regarder",
