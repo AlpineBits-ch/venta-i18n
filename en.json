@@ -845,6 +845,8 @@
   "CALL.KICK": "Kick",
   "CALL.BAN": "Ban",
   "CALL.CANCEL_CALL": "Cancel call",
+  "CALL.INVITE_TO_VOICE": "Invite to Voice",
+  "CALL.INVITE_TO_VOICE_HINT": "There's room for one more.",
   "INVITE.INVALID": "Invalid or expired invite",
   "INVITE.UNKNOWN_SERVER": "Unknown Server",
   "INVITE.EXPIRED": "Invite expired",

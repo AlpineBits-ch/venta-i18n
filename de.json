@@ -786,6 +786,8 @@
   "CALL.KICK": "Entfernen",
   "CALL.BAN": "Bannen",
   "CALL.CANCEL_CALL": "Anruf abbrechen",
+  "CALL.INVITE_TO_VOICE": "Zum Sprachchat einladen",
+  "CALL.INVITE_TO_VOICE_HINT": "Hier ist noch Platz für jemanden.",
   "INVITE.INVALID": "Ungültige oder abgelaufene Einladung",
   "INVITE.UNKNOWN_SERVER": "Unbekannter Server",
   "INVITE.EXPIRED": "Einladung abgelaufen",
