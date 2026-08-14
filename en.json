@@ -817,6 +817,8 @@
   "CALL.PARTICIPANT_COUNT": "{{ count }} in voice",
   "CALL.LOBBY_EMPTY": "No one here yet. Be the first!",
   "CALL.JOIN_VOICE": "Join voice",
+  "CALL.WATCH_STREAM": "Watch stream",
+  "CALL.JOIN_AND_WATCH": "Join and watch",
   "CALL.VOLUME": "Volume",
   "CALL.SERVER_DEAFENED": "Server deafened",
   "CALL.SERVER_DEAFEN": "Server deafen",
