@@ -747,6 +747,7 @@
   "CALL.WATCHING": "{{ count }} spectateurs",
   "CALL.YOUR_SCREEN": "Votre écran",
   "CALL.FPS_OUT": "{{ fps }} ips envoyées",
+  "CALL.FPS_IN": "{{ fps }} ips reçues",
   "CALL.SHOW_MY_STREAM": "Afficher mon flux",
   "CALL.YOU_ARE_LIVE": "Vous êtes en direct",
   "CALL.OTHERS_SEE_FULL_STREAM": "Les autres voient le flux complet",

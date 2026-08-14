@@ -806,6 +806,7 @@
   "CALL.WATCHING": "{{ count }} watching",
   "CALL.YOUR_SCREEN": "Your screen",
   "CALL.FPS_OUT": "{{ fps }} fps out",
+  "CALL.FPS_IN": "{{ fps }} fps in",
   "CALL.SHOW_MY_STREAM": "Show my stream",
   "CALL.YOU_ARE_LIVE": "You're live",
   "CALL.OTHERS_SEE_FULL_STREAM": "Others see the full stream",
