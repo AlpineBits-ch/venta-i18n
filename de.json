@@ -283,6 +283,8 @@
   "SETTINGS.NOTIFICATIONS.DM_DESC": "Benachrichtigen, wenn ich eine Direktnachricht erhalte.",
   "SETTINGS.NOTIFICATIONS.MENTIONS": "Erwähnungen & Antworten",
   "SETTINGS.NOTIFICATIONS.MENTIONS_DESC": "Benachrichtigen, wenn jemand mich erwähnt oder antwortet.",
+  "SETTINGS.STREAMING_SECTION": "Streaming",
+  "SETTINGS.NOTIFY_GO_LIVE_FRIENDS": "Benachrichtigen, wenn ein Freund live geht",
   "SETTINGS.NOTIFY_GO_LIVE": "Benachrichtigen, wenn jemand in {{ guild }} live geht",
   "SETTINGS.NOTIFICATIONS.SECTION_SOUNDS": "Töne",
   "SETTINGS.NOTIFICATIONS.SOUNDS": "Benachrichtigungstöne",
