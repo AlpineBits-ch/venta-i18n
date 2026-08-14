@@ -749,6 +749,7 @@
   "CALL.HIDE_MINI_PLAYER": "Miniplayer ausblenden",
   "CALL.SHOW_MINI_PLAYER": "Miniplayer einblenden",
   "CALL.PICTURE_IN_PICTURE": "Bild-in-Bild",
+  "CALL.POP_OUT": "In eigenem Fenster öffnen",
   "CALL.HIDE_OTHER_STREAMS": "Andere Streams ausblenden",
   "CALL.SHOW_OTHER_STREAMS": "Andere Streams anzeigen",
   "CALL.STOP_WATCHING": "Nicht mehr ansehen",

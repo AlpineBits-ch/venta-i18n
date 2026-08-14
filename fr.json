@@ -749,6 +749,7 @@
   "CALL.HIDE_MINI_PLAYER": "Masquer le mini-lecteur",
   "CALL.SHOW_MINI_PLAYER": "Afficher le mini-lecteur",
   "CALL.PICTURE_IN_PICTURE": "Image dans l'image",
+  "CALL.POP_OUT": "Ouvrir dans une fenêtre",
   "CALL.HIDE_OTHER_STREAMS": "Masquer les autres flux",
   "CALL.SHOW_OTHER_STREAMS": "Afficher les autres flux",
   "CALL.STOP_WATCHING": "Ne plus regarder",
