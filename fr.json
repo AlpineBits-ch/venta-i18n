@@ -283,6 +283,8 @@
   "SETTINGS.NOTIFICATIONS.DM_DESC": "Me notifier lors de la réception d'un message direct.",
   "SETTINGS.NOTIFICATIONS.MENTIONS": "Mentions & Réponses",
   "SETTINGS.NOTIFICATIONS.MENTIONS_DESC": "Me notifier quand quelqu'un me mentionne ou me répond.",
+  "SETTINGS.STREAMING_SECTION": "Diffusion",
+  "SETTINGS.NOTIFY_GO_LIVE_FRIENDS": "Me notifier quand un ami est en direct",
   "SETTINGS.NOTIFY_GO_LIVE": "Me notifier quand quelqu'un est en direct dans {{ guild }}",
   "SETTINGS.NOTIFICATIONS.SECTION_SOUNDS": "Sons",
   "SETTINGS.NOTIFICATIONS.SOUNDS": "Sons de notification",

@@ -330,6 +330,8 @@
   "SETTINGS.NOTIFICATIONS.DM_DESC": "Notify me when I receive a direct message.",
   "SETTINGS.NOTIFICATIONS.MENTIONS": "Mentions & Replies",
   "SETTINGS.NOTIFICATIONS.MENTIONS_DESC": "Notify me when someone mentions or replies to me.",
+  "SETTINGS.STREAMING_SECTION": "Streaming",
+  "SETTINGS.NOTIFY_GO_LIVE_FRIENDS": "Notify me when a friend goes live",
   "SETTINGS.NOTIFY_GO_LIVE": "Notify me when someone goes live in {{ guild }}",
   "SETTINGS.NOTIFICATIONS.SECTION_SOUNDS": "Sounds",
   "SETTINGS.NOTIFICATIONS.SOUNDS": "Notification Sounds",
