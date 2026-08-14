@@ -807,6 +807,7 @@
   "CALL.ZOOM_IN": "Zoom in",
   "CALL.ZOOM_OUT": "Zoom out",
   "CALL.WATCHING": "{{ count }} watching",
+  "CALL.UNKNOWN_VIEWER": "Someone",
   "CALL.YOUR_SCREEN": "Your screen",
   "CALL.FPS_OUT": "{{ fps }} fps out",
   "CALL.FPS_IN": "{{ fps }} fps in",

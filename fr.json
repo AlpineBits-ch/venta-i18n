@@ -748,6 +748,7 @@
   "CALL.ZOOM_IN": "Zoom avant",
   "CALL.ZOOM_OUT": "Zoom arrière",
   "CALL.WATCHING": "{{ count }} spectateurs",
+  "CALL.UNKNOWN_VIEWER": "Quelqu'un",
   "CALL.YOUR_SCREEN": "Votre écran",
   "CALL.FPS_OUT": "{{ fps }} ips envoyées",
   "CALL.FPS_IN": "{{ fps }} ips reçues",

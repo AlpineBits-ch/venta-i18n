@@ -748,6 +748,7 @@
   "CALL.ZOOM_IN": "Vergrößern",
   "CALL.ZOOM_OUT": "Verkleinern",
   "CALL.WATCHING": "{{ count }} schauen zu",
+  "CALL.UNKNOWN_VIEWER": "Jemand",
   "CALL.YOUR_SCREEN": "Dein Bildschirm",
   "CALL.FPS_OUT": "{{ fps }} fps gesendet",
   "CALL.FPS_IN": "{{ fps }} fps empfangen",
