@@ -818,6 +818,7 @@
   "CALL.LOBBY_EMPTY": "No one here yet. Be the first!",
   "CALL.JOIN_VOICE": "Join voice",
   "CALL.VOLUME": "Volume",
+  "CALL.STREAM_VOLUME": "Stream volume",
   "CALL.SERVER_DEAFENED": "Server deafened",
   "CALL.SERVER_DEAFEN": "Server deafen",
   "CALL.REMOVE_SERVER_DEAFEN": "Remove server deafen",

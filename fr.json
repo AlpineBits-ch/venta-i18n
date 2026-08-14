@@ -759,6 +759,7 @@
   "CALL.LOBBY_EMPTY": "Personne ici pour le moment. Lancez-vous !",
   "CALL.JOIN_VOICE": "Rejoindre le vocal",
   "CALL.VOLUME": "Volume",
+  "CALL.STREAM_VOLUME": "Volume du flux",
   "CALL.SERVER_DEAFENED": "Son coupé par le serveur",
   "CALL.SERVER_DEAFEN": "Couper le son (serveur)",
   "CALL.REMOVE_SERVER_DEAFEN": "Rétablir le son (serveur)",

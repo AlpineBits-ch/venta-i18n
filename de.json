@@ -759,6 +759,7 @@
   "CALL.LOBBY_EMPTY": "Noch niemand hier. Sei die erste Person!",
   "CALL.JOIN_VOICE": "Sprachkanal beitreten",
   "CALL.VOLUME": "Lautstärke",
+  "CALL.STREAM_VOLUME": "Stream-Lautstärke",
   "CALL.SERVER_DEAFENED": "Serverseitig stumm",
   "CALL.SERVER_DEAFEN": "Serverseitig stummschalten",
   "CALL.REMOVE_SERVER_DEAFEN": "Serverseitige Stummschaltung aufheben",
