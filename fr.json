@@ -1789,5 +1789,15 @@
   "VOICE_RING.REFUSED_RECENTLY_DECLINED": "Cette personne a refusé récemment. Réessayez plus tard.",
   "VOICE_RING.REFUSED_TOO_MANY_SENT": "Vous avez envoyé beaucoup d’invitations. Attendez quelques minutes.",
   "VOICE_RING.REFUSED_TARGET_SATURATED": "Cette personne a reçu beaucoup d’invitations à l’instant.",
-  "VOICE_RING.REFUSED_GENERIC": "Cette invitation n’a pas pu être envoyée."
+  "VOICE_RING.REFUSED_GENERIC": "Cette invitation n’a pas pu être envoyée.",
+  "VOICE_RING.CARD_SUBTITLE": "Invitation à un salon vocal",
+  "VOICE_RING.CARD_LAPSED": "Cette invitation a expiré",
+  "VOICE_RING.CARD_JOIN_ANYWAY": "Rejoindre le salon",
+  "VOICE_RING.RING_THEM": "Les appeler maintenant",
+  "VOICE_RING.INVITE_SENT": "Invité",
+  "VOICE_RING.INVITE_REFUSED": "Cette personne n’accepte pas vos messages.",
+  "VOICE_RING.INVITE_FAILED": "Cette invitation n’a pas pu être envoyée.",
+  "VOICE_RING.INVITE_FRIENDS": "Inviter des amis",
+  "VOICE_RING.SEARCH_EVERYONE": "Rechercher tout le monde",
+  "VOICE_RING.NOBODY_AROUND": "Personne n’est là pour le moment."
 }

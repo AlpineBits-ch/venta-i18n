@@ -3439,5 +3439,15 @@
   "VOICE_RING.REFUSED_RECENTLY_DECLINED": "They declined an invitation recently. You can try again later.",
   "VOICE_RING.REFUSED_TOO_MANY_SENT": "You have sent a lot of invitations just now. Give it a few minutes.",
   "VOICE_RING.REFUSED_TARGET_SATURATED": "They have had a lot of invitations just now.",
-  "VOICE_RING.REFUSED_GENERIC": "That invitation could not be sent."
+  "VOICE_RING.REFUSED_GENERIC": "That invitation could not be sent.",
+  "VOICE_RING.CARD_SUBTITLE": "Voice channel invitation",
+  "VOICE_RING.CARD_LAPSED": "This invitation has expired",
+  "VOICE_RING.CARD_JOIN_ANYWAY": "Join channel",
+  "VOICE_RING.RING_THEM": "Ring them now",
+  "VOICE_RING.INVITE_SENT": "Invited",
+  "VOICE_RING.INVITE_REFUSED": "They do not accept messages from you.",
+  "VOICE_RING.INVITE_FAILED": "That invitation could not be sent.",
+  "VOICE_RING.INVITE_FRIENDS": "Invite friends",
+  "VOICE_RING.SEARCH_EVERYONE": "Search everyone",
+  "VOICE_RING.NOBODY_AROUND": "Nobody's around right now."
 }

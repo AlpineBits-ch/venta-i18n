@@ -1789,5 +1789,15 @@
   "VOICE_RING.REFUSED_RECENTLY_DECLINED": "Die Person hat vor Kurzem abgelehnt. Versuch es später noch einmal.",
   "VOICE_RING.REFUSED_TOO_MANY_SENT": "Du hast gerade viele Einladungen verschickt. Warte ein paar Minuten.",
   "VOICE_RING.REFUSED_TARGET_SATURATED": "Die Person hat gerade sehr viele Einladungen bekommen.",
-  "VOICE_RING.REFUSED_GENERIC": "Diese Einladung konnte nicht gesendet werden."
+  "VOICE_RING.REFUSED_GENERIC": "Diese Einladung konnte nicht gesendet werden.",
+  "VOICE_RING.CARD_SUBTITLE": "Einladung in einen Sprachkanal",
+  "VOICE_RING.CARD_LAPSED": "Diese Einladung ist abgelaufen",
+  "VOICE_RING.CARD_JOIN_ANYWAY": "Kanal betreten",
+  "VOICE_RING.RING_THEM": "Jetzt anklingeln",
+  "VOICE_RING.INVITE_SENT": "Eingeladen",
+  "VOICE_RING.INVITE_REFUSED": "Diese Person nimmt keine Nachrichten von dir an.",
+  "VOICE_RING.INVITE_FAILED": "Diese Einladung konnte nicht gesendet werden.",
+  "VOICE_RING.INVITE_FRIENDS": "Freunde einladen",
+  "VOICE_RING.SEARCH_EVERYONE": "Alle durchsuchen",
+  "VOICE_RING.NOBODY_AROUND": "Gerade ist niemand da."
 }
