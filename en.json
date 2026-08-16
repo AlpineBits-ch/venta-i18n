@@ -871,6 +871,7 @@
   "CALL.ABOVE_PLAN": "This server's plan doesn't reach this quality",
   "CALL.LOBBY_EMPTY": "No one here yet. Be the first!",
   "CALL.JOIN_VOICE": "Join voice",
+  "CALL.JOINING": "Joining…",
   "CALL.WATCH_STREAM": "Watch stream",
   "CALL.JOIN_AND_WATCH": "Join and watch",
   "CALL.VOLUME": "Volume",

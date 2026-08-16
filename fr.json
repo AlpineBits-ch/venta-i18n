@@ -782,6 +782,7 @@
   "CALL.PARTICIPANT_COUNT": "{{ count }} en vocal",
   "CALL.LOBBY_EMPTY": "Personne ici pour le moment. Lancez-vous !",
   "CALL.JOIN_VOICE": "Rejoindre le vocal",
+  "CALL.JOINING": "Connexion…",
   "CALL.WATCH_STREAM": "Regarder le flux",
   "CALL.JOIN_AND_WATCH": "Rejoindre et regarder",
   "CALL.VOLUME": "Volume",
