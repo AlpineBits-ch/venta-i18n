@@ -732,6 +732,7 @@
   "CALL.STATS_NERD.MENU": "Statistiques pour les geeks",
   "CALL.STATS_NERD.COPY": "Copier les données brutes",
   "CALL.STATS_NERD.COPIED": "Copié",
+  "CALL.STATS_NERD.COPY_FAILED": "Aucune statistique à copier pour le moment",
   "CALL.STATS_NERD.TITLE_IN": "Flux entrant",
   "CALL.STATS_NERD.TITLE_OUT": "Flux sortant",
   "CALL.STATS_NERD.CLOSE": "Fermer les statistiques",

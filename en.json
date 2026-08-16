@@ -819,6 +819,7 @@
   "CALL.STATS_NERD.MENU": "Stats for nerds",
   "CALL.STATS_NERD.COPY": "Copy raw stats",
   "CALL.STATS_NERD.COPIED": "Copied",
+  "CALL.STATS_NERD.COPY_FAILED": "No stats to copy yet",
   "CALL.STATS_NERD.TITLE_IN": "Incoming stream",
   "CALL.STATS_NERD.TITLE_OUT": "Outgoing stream",
   "CALL.STATS_NERD.CLOSE": "Close stats",

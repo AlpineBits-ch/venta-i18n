@@ -732,6 +732,7 @@
   "CALL.STATS_NERD.MENU": "Statistiken für Nerds",
   "CALL.STATS_NERD.COPY": "Rohdaten kopieren",
   "CALL.STATS_NERD.COPIED": "Kopiert",
+  "CALL.STATS_NERD.COPY_FAILED": "Noch keine Statistiken zum Kopieren",
   "CALL.STATS_NERD.TITLE_IN": "Eingehender Stream",
   "CALL.STATS_NERD.TITLE_OUT": "Ausgehender Stream",
   "CALL.STATS_NERD.CLOSE": "Statistiken schließen",
