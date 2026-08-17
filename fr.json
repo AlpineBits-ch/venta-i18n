@@ -642,7 +642,6 @@
   "COMMON.RETRY": "Réessayer",
   "COMMON.TODAY": "Aujourd'hui",
   "COMMON.YESTERDAY": "Hier",
-  "MESSAGE.YESTERDAY_AT": "Hier à {{time}}",
   "CONVERSATION_LIST.NO_MESSAGES_YET": "Pas encore de messages",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Supprimer la conversation",
   "CONVERSATION_LIST.LOAD_MORE": "Charger plus",

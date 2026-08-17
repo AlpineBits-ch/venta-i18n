@@ -642,7 +642,6 @@
   "COMMON.RETRY": "Erneut versuchen",
   "COMMON.TODAY": "Heute",
   "COMMON.YESTERDAY": "Gestern",
-  "MESSAGE.YESTERDAY_AT": "Gestern um {{time}}",
   "CONVERSATION_LIST.NO_MESSAGES_YET": "Noch keine Nachrichten",
   "CONVERSATION_LIST.DELETE_TOOLTIP": "Gespräch löschen",
   "CONVERSATION_LIST.LOAD_MORE": "Mehr laden",
