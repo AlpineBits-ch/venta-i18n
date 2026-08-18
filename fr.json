@@ -1868,5 +1868,9 @@
   "VOICE_RING.INVITE_FAILED": "Cette invitation n’a pas pu être envoyée.",
   "VOICE_RING.INVITE_FRIENDS": "Inviter des amis",
   "VOICE_RING.SEARCH_EVERYONE": "Rechercher tout le monde",
-  "VOICE_RING.NOBODY_AROUND": "Personne n’est là pour le moment."
+  "VOICE_RING.NOBODY_AROUND": "Personne n’est là pour le moment.",
+  "COMPOSER.DRAFT_SAVING": "Enregistrement",
+  "COMPOSER.ATTACH_INLINE": "Placer dans le texte",
+  "COMPOSER.ATTACH_INLINE_REMOVE": "Retirer du texte",
+  "COMPOSER.INLINE_ATTACHMENT": "Pièce jointe"
 }

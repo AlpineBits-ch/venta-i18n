@@ -3877,5 +3877,9 @@
   "DICE.ERROR.D1": "A one-sided die always shows the same face.",
   "DICE.ERROR.CONSTANT": "Numbers go up to {{max}}.",
   "DICE.ERROR.KEEP_CONFLICT": "One keep or drop rule per part.",
-  "DICE.ERROR.KEEP_COUNT": "You can keep or drop between 1 and {{count}} of them."
+  "DICE.ERROR.KEEP_COUNT": "You can keep or drop between 1 and {{count}} of them.",
+  "COMPOSER.DRAFT_SAVING": "Saving",
+  "COMPOSER.ATTACH_INLINE": "Place in text",
+  "COMPOSER.ATTACH_INLINE_REMOVE": "Remove from text",
+  "COMPOSER.INLINE_ATTACHMENT": "Attachment"
 }
