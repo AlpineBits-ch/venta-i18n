@@ -1872,5 +1872,7 @@
   "COMPOSER.DRAFT_SAVING": "Wird gespeichert",
   "COMPOSER.ATTACH_INLINE": "Im Text platzieren",
   "COMPOSER.ATTACH_INLINE_REMOVE": "Aus dem Text entfernen",
-  "COMPOSER.INLINE_ATTACHMENT": "Anhang"
+  "COMPOSER.INLINE_ATTACHMENT": "Anhang",
+  "ENTITLEMENT.KEY.GUILD_MESSAGE_MAX_LENGTH": "Nachrichtenlänge in einem Server",
+  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Nachrichtenlänge in Direktnachrichten"
 }

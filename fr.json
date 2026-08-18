@@ -1872,5 +1872,7 @@
   "COMPOSER.DRAFT_SAVING": "Enregistrement",
   "COMPOSER.ATTACH_INLINE": "Placer dans le texte",
   "COMPOSER.ATTACH_INLINE_REMOVE": "Retirer du texte",
-  "COMPOSER.INLINE_ATTACHMENT": "Pièce jointe"
+  "COMPOSER.INLINE_ATTACHMENT": "Pièce jointe",
+  "ENTITLEMENT.KEY.GUILD_MESSAGE_MAX_LENGTH": "Longueur des messages dans un serveur",
+  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Longueur des messages en messages privés"
 }

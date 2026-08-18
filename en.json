@@ -3669,7 +3669,6 @@
   "PERSONA.ACCOUNT.RETIRED_DESC": "They still render on everything they said. They cannot be picked.",
   "PERSONA.ACCOUNT.UNRETIRE": "Bring back",
   "PERSONA.ACCOUNT.UNRETIRE_FAILED": "Could not bring the character back",
-  "ENTITLEMENT.KEY.MESSAGE_MAX_LENGTH": "Message length",
   "COMPOSER.EXPAND": "More room",
   "COMPOSER.COLLAPSE": "Less room",
   "COMPOSER.PREVIEW": "Preview",
@@ -3881,5 +3880,7 @@
   "COMPOSER.DRAFT_SAVING": "Saving",
   "COMPOSER.ATTACH_INLINE": "Place in text",
   "COMPOSER.ATTACH_INLINE_REMOVE": "Remove from text",
-  "COMPOSER.INLINE_ATTACHMENT": "Attachment"
+  "COMPOSER.INLINE_ATTACHMENT": "Attachment",
+  "ENTITLEMENT.KEY.GUILD_MESSAGE_MAX_LENGTH": "Message length in a server",
+  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Message length in direct messages"
 }
