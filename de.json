@@ -1874,5 +1874,22 @@
   "COMPOSER.ATTACH_INLINE_REMOVE": "Aus dem Text entfernen",
   "COMPOSER.INLINE_ATTACHMENT": "Anhang",
   "ENTITLEMENT.KEY.GUILD_MESSAGE_MAX_LENGTH": "Nachrichtenlänge in einem Server",
-  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Nachrichtenlänge in Direktnachrichten"
+  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Nachrichtenlänge in Direktnachrichten",
+  "MEMBER_ACTIONS.KICK": "Rauswerfen",
+  "MEMBER_ACTIONS.BAN": "Bannen",
+  "MEMBER_ACTIONS.TIMEOUT": "Auszeit",
+  "MEMBER_ACTIONS.TIMEOUT_60S": "60 Sekunden",
+  "MEMBER_ACTIONS.TIMEOUT_5M": "5 Minuten",
+  "MEMBER_ACTIONS.TIMEOUT_10M": "10 Minuten",
+  "MEMBER_ACTIONS.TIMEOUT_1H": "1 Stunde",
+  "MEMBER_ACTIONS.TIMEOUT_1D": "1 Tag",
+  "MEMBER_ACTIONS.TIMEOUT_1W": "1 Woche",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVE": "Auszeit aufheben",
+  "MEMBER_ACTIONS.TIMEOUT_DONE": "{{ name }} hat eine Auszeit erhalten",
+  "MEMBER_ACTIONS.TIMEOUT_ERROR": "Auszeit konnte nicht vergeben werden",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVED": "Auszeit für {{ name }} aufgehoben",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVE_ERROR": "Auszeit konnte nicht aufgehoben werden",
+  "MEMBER_ACTIONS.NONE": "Keine Aktionen verfügbar",
+  "MEMBER_ACTIONS.YOU_ARE_TIMED_OUT": "Du hast eine Auszeit bis {{ until }}",
+  "MEMBER_ACTIONS.YOUR_TIMEOUT_LIFTED": "Deine Auszeit wurde aufgehoben"
 }

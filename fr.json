@@ -1874,5 +1874,22 @@
   "COMPOSER.ATTACH_INLINE_REMOVE": "Retirer du texte",
   "COMPOSER.INLINE_ATTACHMENT": "Pièce jointe",
   "ENTITLEMENT.KEY.GUILD_MESSAGE_MAX_LENGTH": "Longueur des messages dans un serveur",
-  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Longueur des messages en messages privés"
+  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Longueur des messages en messages privés",
+  "MEMBER_ACTIONS.KICK": "Expulser",
+  "MEMBER_ACTIONS.BAN": "Bannir",
+  "MEMBER_ACTIONS.TIMEOUT": "Exclusion temporaire",
+  "MEMBER_ACTIONS.TIMEOUT_60S": "60 secondes",
+  "MEMBER_ACTIONS.TIMEOUT_5M": "5 minutes",
+  "MEMBER_ACTIONS.TIMEOUT_10M": "10 minutes",
+  "MEMBER_ACTIONS.TIMEOUT_1H": "1 heure",
+  "MEMBER_ACTIONS.TIMEOUT_1D": "1 jour",
+  "MEMBER_ACTIONS.TIMEOUT_1W": "1 semaine",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVE": "Lever l'exclusion",
+  "MEMBER_ACTIONS.TIMEOUT_DONE": "{{ name }} a été exclu temporairement",
+  "MEMBER_ACTIONS.TIMEOUT_ERROR": "Échec de l'exclusion temporaire",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVED": "Exclusion levée pour {{ name }}",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVE_ERROR": "Échec de la levée de l'exclusion",
+  "MEMBER_ACTIONS.NONE": "Aucune action disponible",
+  "MEMBER_ACTIONS.YOU_ARE_TIMED_OUT": "Vous êtes exclu temporairement jusqu'à {{ until }}",
+  "MEMBER_ACTIONS.YOUR_TIMEOUT_LIFTED": "Votre exclusion temporaire a été levée"
 }

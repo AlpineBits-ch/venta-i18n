@@ -3882,5 +3882,22 @@
   "COMPOSER.ATTACH_INLINE_REMOVE": "Remove from text",
   "COMPOSER.INLINE_ATTACHMENT": "Attachment",
   "ENTITLEMENT.KEY.GUILD_MESSAGE_MAX_LENGTH": "Message length in a server",
-  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Message length in direct messages"
+  "ENTITLEMENT.KEY.USER_MESSAGE_MAX_LENGTH": "Message length in direct messages",
+  "MEMBER_ACTIONS.KICK": "Kick",
+  "MEMBER_ACTIONS.BAN": "Ban",
+  "MEMBER_ACTIONS.TIMEOUT": "Timeout",
+  "MEMBER_ACTIONS.TIMEOUT_60S": "60 seconds",
+  "MEMBER_ACTIONS.TIMEOUT_5M": "5 minutes",
+  "MEMBER_ACTIONS.TIMEOUT_10M": "10 minutes",
+  "MEMBER_ACTIONS.TIMEOUT_1H": "1 hour",
+  "MEMBER_ACTIONS.TIMEOUT_1D": "1 day",
+  "MEMBER_ACTIONS.TIMEOUT_1W": "1 week",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVE": "Remove timeout",
+  "MEMBER_ACTIONS.TIMEOUT_DONE": "{{ name }} has been timed out",
+  "MEMBER_ACTIONS.TIMEOUT_ERROR": "Failed to time out member",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVED": "Timeout lifted for {{ name }}",
+  "MEMBER_ACTIONS.TIMEOUT_REMOVE_ERROR": "Failed to lift the timeout",
+  "MEMBER_ACTIONS.NONE": "No actions available",
+  "MEMBER_ACTIONS.YOU_ARE_TIMED_OUT": "You are timed out until {{ until }}",
+  "MEMBER_ACTIONS.YOUR_TIMEOUT_LIFTED": "Your timeout has been lifted"
 }
