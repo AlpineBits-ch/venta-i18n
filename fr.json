@@ -1351,6 +1351,8 @@
   "PERM_GROUP.DECISIONS": "Décisions",
   "PERM_GROUP.GUESTS": "Invités",
   "PERM_GROUP.ADMIN": "Administration",
+  "PERM_OVERRIDE.SEARCH": "Rechercher",
+  "PERM_OVERRIDE.LOAD_MORE": "Charger plus",
   "GUILD_SETTINGS.NAV.MODULES": "Modules",
   "GUILD_SETTINGS.MODULES.KIND_TITLE": "Ce serveur est un",
   "GUILD_SETTINGS.MODULES.KIND_DESC": "Ne change que le vocabulaire et les paramètres affichés.",

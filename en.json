@@ -1462,6 +1462,8 @@
   "PERM_OVERRIDE.INHERIT": "Inherit",
   "PERM_OVERRIDE.DENY": "Deny",
   "PERM_OVERRIDE.MODULE_READONLY": "These are set on the role itself, not per channel.",
+  "PERM_OVERRIDE.SEARCH": "Search",
+  "PERM_OVERRIDE.LOAD_MORE": "Load more",
   "GUILD_SETTINGS.NAV.MODULES": "Modules",
   "GUILD_SETTINGS.MODULES.KIND_TITLE": "This server is a",
   "GUILD_SETTINGS.MODULES.KIND_DESC": "Only changes the wording and which settings you see.",
