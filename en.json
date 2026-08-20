@@ -1461,7 +1461,6 @@
   "PERM_OVERRIDE.ALLOW": "Allow",
   "PERM_OVERRIDE.INHERIT": "Inherit",
   "PERM_OVERRIDE.DENY": "Deny",
-  "PERM_OVERRIDE.MODULE_READONLY": "These are set on the role itself, not per channel.",
   "PERM_OVERRIDE.SEARCH": "Search",
   "PERM_OVERRIDE.LOAD_MORE": "Load more",
   "GUILD_SETTINGS.NAV.MODULES": "Modules",
