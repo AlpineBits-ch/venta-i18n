@@ -2039,5 +2039,9 @@
   "SCENE.BREADCRUMB.LABEL": "Où se trouve cette scène",
   "SCENE.BREADCRUMB.BACK": "Retour aux scènes",
   "SCENE.TOAST.CREATED_NOT_FILED": "La scène a été créée, mais elle n'a pas pu être classée",
-  "SCENE.ARCHIVE.EMPTY_BODY": "Toutes les scènes de ce serveur vivent ici, en cours ou terminées. Donnez-leur des dossiers pour les arcs auxquels elles appartiennent et des tags pour tout ce qui les traverse, et une longue campagne reste lisible."
+  "SCENE.ARCHIVE.EMPTY_BODY": "Toutes les scènes de ce serveur vivent ici, en cours ou terminées. Donnez-leur des dossiers pour les arcs auxquels elles appartiennent et des tags pour tout ce qui les traverse, et une longue campagne reste lisible.",
+  "GUILD_SETTINGS.ROLES.STAT_OVERRIDES_ONE": "dérogation",
+  "GUILD_SETTINGS.ROLES.STAT_CHANNELS_ONE": "canal",
+  "GUILD_SETTINGS.ROLES.STAT_MEMBERS_ONE": "membre",
+  "GUILD_SETTINGS.ROLES.STAT_VISIBLE_HINT": "Compte ce que ce rôle accorde à lui seul. Un membre peut en voir plus ou moins une fois @everyone et ses propres dérogations appliqués."
 }

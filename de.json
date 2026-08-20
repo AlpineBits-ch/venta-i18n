@@ -2039,5 +2039,9 @@
   "SCENE.BREADCRUMB.LABEL": "Wo diese Szene liegt",
   "SCENE.BREADCRUMB.BACK": "Zurück zu den Szenen",
   "SCENE.TOAST.CREATED_NOT_FILED": "Die Szene wurde erstellt, konnte aber nicht abgelegt werden",
-  "SCENE.ARCHIVE.EMPTY_BODY": "Jede Szene dieses Servers liegt hier, laufend oder beendet. Gib ihnen Ordner für die Handlungsbögen, zu denen sie gehören, und Tags für alles, was quer dazu läuft, dann bleibt auch eine lange Kampagne lesbar."
+  "SCENE.ARCHIVE.EMPTY_BODY": "Jede Szene dieses Servers liegt hier, laufend oder beendet. Gib ihnen Ordner für die Handlungsbögen, zu denen sie gehören, und Tags für alles, was quer dazu läuft, dann bleibt auch eine lange Kampagne lesbar.",
+  "GUILD_SETTINGS.ROLES.STAT_OVERRIDES_ONE": "Überschreibung",
+  "GUILD_SETTINGS.ROLES.STAT_CHANNELS_ONE": "Kanal",
+  "GUILD_SETTINGS.ROLES.STAT_MEMBERS_ONE": "Mitglied",
+  "GUILD_SETTINGS.ROLES.STAT_VISIBLE_HINT": "Zählt, was diese Rolle allein gewährt. Ein Mitglied sieht möglicherweise mehr oder weniger, sobald @everyone und seine eigenen Überschreibungen greifen."
 }

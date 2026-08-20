@@ -4231,5 +4231,9 @@
   "MESSAGE.SYSTEM.SCENE_CHARACTER_JOINED": "{{name}} joined the scene.",
   "MESSAGE.SYSTEM.SCENE_CHARACTER_LEFT": "{{name}} left the scene.",
   "MESSAGE.SYSTEM.SCENE_CHARACTER_REMOVED": "{{name}} was taken out of the scene.",
-  "SCENE.BOARD.TREE_ARIA": "Show or hide the scene folders"
+  "SCENE.BOARD.TREE_ARIA": "Show or hide the scene folders",
+  "GUILD_SETTINGS.ROLES.STAT_OVERRIDES_ONE": "override",
+  "GUILD_SETTINGS.ROLES.STAT_CHANNELS_ONE": "channel",
+  "GUILD_SETTINGS.ROLES.STAT_MEMBERS_ONE": "member",
+  "GUILD_SETTINGS.ROLES.STAT_VISIBLE_HINT": "Counts what this role alone grants. A member may see more or fewer once @everyone and their own overrides are applied."
 }
