@@ -1414,6 +1414,7 @@
   "CHANNEL_PERMS.ADVANCED": "Erweiterte Berechtigungen",
   "CHANNEL_PERMS.ADVANCED_HINT": "Überschreibungen pro Rolle und pro Mitglied",
   "CHANNEL_PERMS.OVERRIDE_COUNT": "{{count}} Überschreibungen",
+  "CHANNEL_PERMS.UNKNOWN_MEMBER": "Unbekanntes Mitglied",
   "GUILD_SETTINGS.NAV.MODULES": "Module",
   "GUILD_SETTINGS.MODULES.KIND_TITLE": "Dieser Server ist ein",
   "GUILD_SETTINGS.MODULES.KIND_DESC": "Ändert nur die Bezeichnungen und welche Einstellungen du siehst.",

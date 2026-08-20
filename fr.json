@@ -1414,6 +1414,7 @@
   "CHANNEL_PERMS.ADVANCED": "Permissions avancées",
   "CHANNEL_PERMS.ADVANCED_HINT": "Dérogations par rôle et par membre",
   "CHANNEL_PERMS.OVERRIDE_COUNT": "{{count}} dérogations",
+  "CHANNEL_PERMS.UNKNOWN_MEMBER": "Membre inconnu",
   "GUILD_SETTINGS.NAV.MODULES": "Modules",
   "GUILD_SETTINGS.MODULES.KIND_TITLE": "Ce serveur est un",
   "GUILD_SETTINGS.MODULES.KIND_DESC": "Ne change que le vocabulaire et les paramètres affichés.",

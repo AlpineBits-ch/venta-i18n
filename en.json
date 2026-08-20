@@ -1524,6 +1524,7 @@
   "CHANNEL_PERMS.ADVANCED": "Advanced permissions",
   "CHANNEL_PERMS.ADVANCED_HINT": "Per-role and per-member overrides",
   "CHANNEL_PERMS.OVERRIDE_COUNT": "{{count}} overrides",
+  "CHANNEL_PERMS.UNKNOWN_MEMBER": "Unknown member",
   "GUILD_SETTINGS.NAV.MODULES": "Modules",
   "GUILD_SETTINGS.MODULES.KIND_TITLE": "This server is a",
   "GUILD_SETTINGS.MODULES.KIND_DESC": "Only changes the wording and which settings you see.",
