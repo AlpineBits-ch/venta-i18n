@@ -1913,6 +1913,7 @@
   "SCENE.ARCHIVE.EXPAND_FOLDER": "Diesen Ordner öffnen",
   "SCENE.ARCHIVE.COLLAPSE_FOLDER": "Diesen Ordner schließen",
   "SCENE.ARCHIVE.SHOW_FOLDERS": "Ordner",
+  "SCENE.ARCHIVE.MOVE_TO_FOLDER": "In Ordner verschieben",
   "SCENE.ARCHIVE.STATUS_ALL": "Alle",
   "SCENE.ARCHIVE.STATUS_RUNNING": "Laufend",
   "SCENE.ARCHIVE.STATUS_FINISHED": "Beendet",

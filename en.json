@@ -3964,6 +3964,7 @@
   "SCENE.ARCHIVE.FOLDER_ACTIONS": "Folder actions",
   "SCENE.ARCHIVE.MOVE_UP": "Move up",
   "SCENE.ARCHIVE.MOVE_DOWN": "Move down",
+  "SCENE.ARCHIVE.MOVE_TO_FOLDER": "Move to folder",
   "SCENE.ARCHIVE.REORDER_ERROR": "That folder could not be moved",
   "SCENE.ARCHIVE.TAGS_ALL_OF": "With all of",
   "SCENE.ARCHIVE.TAGS_AND_HINT": "Each tag you add narrows the results. A scene has to carry every one of them.",
