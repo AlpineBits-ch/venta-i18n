@@ -1916,6 +1916,7 @@
   "SCENE.ARCHIVE.RECENT": "Zuletzt",
   "SCENE.ARCHIVE.NEW_SCENE_HERE": "Neue Szene hier",
   "SCENE.ARCHIVE.SHOW_ALL_IN_FOLDER": "Alle {{count}} anzeigen",
+  "SCENE.NAV.MORE_FOLDERS": "{{count}} weitere Ordner",
   "SCENE.ARCHIVE.EXPAND_FOLDER": "Diesen Ordner öffnen",
   "SCENE.ARCHIVE.COLLAPSE_FOLDER": "Diesen Ordner schließen",
   "SCENE.ARCHIVE.READ_FROM_START": "Von vorn lesen",
