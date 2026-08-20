@@ -1435,7 +1435,7 @@
   "VIEW_AS.BANNER": "Ansicht als {{name}}. {{visible}} von {{total}} Kanälen sichtbar.",
   "VIEW_AS.EXIT": "Beenden",
   "VIEW_AS.HIDDEN": "ausgeblendet",
-  "VIEW_AS.CANNOT_SEND": "Diese Rolle kann hier keine Nachrichten senden.",
+  "VIEW_AS.CANNOT_SEND": "Diese Ansicht kann hier keine Nachrichten senden.",
   "VIEW_AS.PICK_TITLE": "Server ansehen als",
   "VIEW_AS.PICK_ROLE": "Rollen",
   "VIEW_AS.PICK_MEMBER": "Mitglieder",

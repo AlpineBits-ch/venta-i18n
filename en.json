@@ -1545,7 +1545,7 @@
   "VIEW_AS.BANNER": "Viewing as {{name}}. {{visible}} of {{total}} channels visible.",
   "VIEW_AS.EXIT": "Exit",
   "VIEW_AS.HIDDEN": "hidden",
-  "VIEW_AS.CANNOT_SEND": "This role cannot send messages here.",
+  "VIEW_AS.CANNOT_SEND": "This view can't send messages here.",
   "VIEW_AS.PICK_TITLE": "View the server as",
   "VIEW_AS.PICK_ROLE": "Roles",
   "VIEW_AS.PICK_MEMBER": "Members",
