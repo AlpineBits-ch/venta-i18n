@@ -4129,5 +4129,6 @@
   "SCENE.REQUEST.DENIED": "Request denied",
   "MESSAGE.SYSTEM.SCENE_CHARACTER_JOINED": "{{name}} joined the scene.",
   "MESSAGE.SYSTEM.SCENE_CHARACTER_LEFT": "{{name}} left the scene.",
-  "MESSAGE.SYSTEM.SCENE_CHARACTER_REMOVED": "{{name}} was taken out of the scene."
+  "MESSAGE.SYSTEM.SCENE_CHARACTER_REMOVED": "{{name}} was taken out of the scene.",
+  "SCENE.BOARD.TREE_ARIA": "Show or hide the scene folders"
 }
