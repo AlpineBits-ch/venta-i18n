@@ -1397,6 +1397,8 @@
   "PERM_SOURCE.Implied": "Impliziert",
   "PERM_SOURCE.Superadmin": "Admin",
   "PERM_SOURCE.Muted": "Auszeit",
+  "PERM_SOURCE.ModuleDisabled": "Modul aus",
+  "PERM_SOURCE.SceneRestricted": "nicht in dieser Szene",
   "CHANNEL_PERMS.TITLE": "Berechtigungen",
   "CHANNEL_PERMS.SUBTITLE": "Wer diesen Kanal sehen kann und was er darin tun darf.",
   "CHANNEL_PERMS.PRIVATE": "Privater Kanal",

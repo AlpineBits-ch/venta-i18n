@@ -1507,6 +1507,8 @@
   "PERM_SOURCE.Implied": "implied",
   "PERM_SOURCE.Superadmin": "admin",
   "PERM_SOURCE.Muted": "timed out",
+  "PERM_SOURCE.ModuleDisabled": "module off",
+  "PERM_SOURCE.SceneRestricted": "not in this scene",
   "CHANNEL_PERMS.TITLE": "Permissions",
   "CHANNEL_PERMS.SUBTITLE": "Who can see this channel, and what they can do in it.",
   "CHANNEL_PERMS.PRIVATE": "Private channel",
