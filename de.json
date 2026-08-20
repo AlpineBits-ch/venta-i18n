@@ -1918,6 +1918,7 @@
   "SCENE.ARCHIVE.OPEN_ERROR_DETAIL": "Ihr Kanal ist nicht mehr auf diesem Server, oder du kannst ihn nicht sehen.",
   "SCENE.ARCHIVE.SHOW_FOLDERS": "Ordner",
   "SCENE.ARCHIVE.MOVE_TO_FOLDER": "In Ordner verschieben",
+  "SCENE.ARCHIVE.RESIZE_RAIL": "Ordnerliste in der Breite ändern",
   "SCENE.ARCHIVE.STATUS_ALL": "Alle",
   "SCENE.ARCHIVE.STATUS_RUNNING": "Laufend",
   "SCENE.ARCHIVE.STATUS_FINISHED": "Beendet",

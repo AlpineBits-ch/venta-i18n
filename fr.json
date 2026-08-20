@@ -1918,6 +1918,7 @@
   "SCENE.ARCHIVE.OPEN_ERROR_DETAIL": "Son salon n'est plus sur ce serveur, ou vous ne pouvez pas le voir.",
   "SCENE.ARCHIVE.SHOW_FOLDERS": "Dossiers",
   "SCENE.ARCHIVE.MOVE_TO_FOLDER": "Déplacer vers un dossier",
+  "SCENE.ARCHIVE.RESIZE_RAIL": "Redimensionner la liste des dossiers",
   "SCENE.ARCHIVE.STATUS_ALL": "Toutes",
   "SCENE.ARCHIVE.STATUS_RUNNING": "En cours",
   "SCENE.ARCHIVE.STATUS_FINISHED": "Terminées",
