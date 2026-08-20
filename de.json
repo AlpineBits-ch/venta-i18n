@@ -1929,6 +1929,8 @@
   "SCENE.ARCHIVE.STATUS_RUNNING": "Laufend",
   "SCENE.ARCHIVE.STATUS_FINISHED": "Beendet",
   "SCENE.BOARD.FOLDER_UNFILED": "In keinem Ordner",
+  "SCENE.BREADCRUMB.LABEL": "Wo diese Szene liegt",
+  "SCENE.BREADCRUMB.BACK": "Zurück zu den Szenen",
   "SCENE.TOAST.CREATED_NOT_FILED": "Die Szene wurde erstellt, konnte aber nicht abgelegt werden",
   "SCENE.ARCHIVE.EMPTY_BODY": "Jede Szene dieses Servers liegt hier, laufend oder beendet. Gib ihnen Ordner für die Handlungsbögen, zu denen sie gehören, und Tags für alles, was quer dazu läuft, dann bleibt auch eine lange Kampagne lesbar."
 }
