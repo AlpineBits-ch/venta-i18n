@@ -1489,6 +1489,7 @@
   "PERM_OVERRIDE.SEARCH": "Search",
   "PERM_OVERRIDE.LOAD_MORE": "Load more",
   "PERM_OVERRIDE.DENY_ALSO_REMOVES": "Denying this also removes {{names}} here.",
+  "PERM_OVERRIDE.DENY_ALSO_REMOVES_MORE": "and {{count}} more",
   "PERM_SOURCE.Base": "role default",
   "PERM_SOURCE.MemberGuildAllow": "member allow",
   "PERM_SOURCE.MemberGuildDeny": "member deny",

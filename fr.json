@@ -1379,6 +1379,7 @@
   "PERM_OVERRIDE.SEARCH": "Rechercher",
   "PERM_OVERRIDE.LOAD_MORE": "Charger plus",
   "PERM_OVERRIDE.DENY_ALSO_REMOVES": "Refuser ceci retire aussi {{names}} ici.",
+  "PERM_OVERRIDE.DENY_ALSO_REMOVES_MORE": "et {{count}} autres",
   "PERM_SOURCE.Base": "rôle par défaut",
   "PERM_SOURCE.MemberGuildAllow": "membre autorisé",
   "PERM_SOURCE.MemberGuildDeny": "membre refusé",

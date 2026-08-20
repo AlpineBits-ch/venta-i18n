@@ -1379,6 +1379,7 @@
   "PERM_OVERRIDE.SEARCH": "Suchen",
   "PERM_OVERRIDE.LOAD_MORE": "Mehr laden",
   "PERM_OVERRIDE.DENY_ALSO_REMOVES": "Das Verweigern entfernt hier auch {{names}}.",
+  "PERM_OVERRIDE.DENY_ALSO_REMOVES_MORE": "und {{count}} weitere",
   "PERM_SOURCE.Base": "Rollenstandard",
   "PERM_SOURCE.MemberGuildAllow": "Mitglied erlaubt",
   "PERM_SOURCE.MemberGuildDeny": "Mitglied verweigert",
